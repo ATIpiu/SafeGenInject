@@ -3,7 +3,6 @@ from openai import OpenAI
 import json
 import time
 # 初始化客户端
-client = OpenAI(api_key= "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")
 
 def create_jsonl_file(prompts_messages, model="gpt-3.5-turbo-0125", max_tokens=1000):
     """创建一个JSONL文件的内容。"""

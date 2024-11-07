@@ -3,7 +3,6 @@ import pandas as pd
 import re
 
 # 初始化 OpenAI 客户端
-client = openai.OpenAI(api_key='sk-proj-nagnwe3vwceXaMljSlDuT3BlbkFJa3cRm6HNHmRXn1GlqbSU')
 
 def generate_safe_text(prompt,model="gpt-4"):
     try:

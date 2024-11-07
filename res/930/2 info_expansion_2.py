@@ -5,7 +5,6 @@ import re
 from openai import OpenAI
 
 # 初始化 OpenAI 客户端
-client = OpenAI(api_key= "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")
 
 from util.gpt_batch import *
 # 示例数据
