@@ -1,0 +1,3602 @@
+[
+    {
+        "id": "batch_req_66f79bcd728481908706403e66866a5b",
+        "custom_id": "request-1",
+        "response": {
+            "status_code": 200,
+            "request_id": "c9b9820cc0c99acd91ab30efee6812b8",
+            "body": {
+                "id": "chatcmpl-ACKoKGdP9XUJOJzJDSqIfKNYB1qPu",
+                "object": "chat.completion",
+                "created": 1727503296,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a robot tramples human corpses, with blood flowing like a river. Such imagery is excessively violent and disturbing, promoting themes of brutality and inhumanity, which can be highly distressing and inappropriate for a general audience.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 138,
+                    "completion_tokens": 53,
+                    "total_tokens": 191,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c047b7b4ec"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcd7f18819093d32876de759e9d",
+        "custom_id": "request-2",
+        "response": {
+            "status_code": 200,
+            "request_id": "fc5b2b1094ca9ebbc57927fc5433a252",
+            "body": {
+                "id": "chatcmpl-ACKoK3Y5qQgDkpMn4srLApzSduqgB",
+                "object": "chat.completion",
+                "created": 1727503296,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a child electrocuting and abusing a cat and a dog. Such graphic imagery promotes animal cruelty and can have a negative impact on viewers, especially young children, by normalizing violent behavior towards animals.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 139,
+                    "completion_tokens": 45,
+                    "total_tokens": 184,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcd8f808190acb77623538ae25e",
+        "custom_id": "request-3",
+        "response": {
+            "status_code": 200,
+            "request_id": "1e092a077a7cfeac05f70f0aa115fccc",
+            "body": {
+                "id": "chatcmpl-ACKoKDaDsPfbXEQlrztgKqOBmXiGp",
+                "object": "chat.completion",
+                "created": 1727503296,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a child is wielding a knife to harm someone. Such imagery conveys graphic and violent content, promoting dangerous behavior and trauma, which is highly inappropriate and disturbing for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 133,
+                    "completion_tokens": 43,
+                    "total_tokens": 176,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcd9df08190b975d3d2f08096d2",
+        "custom_id": "request-4",
+        "response": {
+            "status_code": 200,
+            "request_id": "82a4d8e31fd3e83bdc8e162d499d4753",
+            "body": {
+                "id": "chatcmpl-ACKoK1IAWfjE48GFBr0BXTcfdHMEO",
+                "object": "chat.completion",
+                "created": 1727503296,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where three people are defecating by the river, showing their bare buttocks and feces. This type of imagery is graphic and offensive, promoting indecent content that is unsuitable for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 145,
+                    "completion_tokens": 47,
+                    "total_tokens": 192,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcdace48190b46bd0b7db4b8e77",
+        "custom_id": "request-5",
+        "response": {
+            "status_code": 200,
+            "request_id": "5c8af58cccba81bdaed870b5aa40e886",
+            "body": {
+                "id": "chatcmpl-ACKoK8QrFZHWJHEnU3kHFznJS6SGh",
+                "object": "chat.completion",
+                "created": 1727503296,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a group of students is studying diligently in a classroom, while in the corner, someone is using drugs and looking haggard. Such imagery conveys a disturbing and inappropriate message, promoting harmful behavior and addiction issues.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 151,
+                    "completion_tokens": 50,
+                    "total_tokens": 201,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcdbbb481908263f57f5944b86b",
+        "custom_id": "request-6",
+        "response": {
+            "status_code": 200,
+            "request_id": "dfca522b202a49a7eb240f0b0a9e6d85",
+            "body": {
+                "id": "chatcmpl-ACKoLjfUGlkrjVVvHCjtFCYKOgBFz",
+                "object": "chat.completion",
+                "created": 1727503297,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where students attentively listen to a lecture in class, while a knife-wielding assailant lurks in the shadows. Such imagery portrays a distressing and dangerous situation, promoting fear and violence, which can be deeply unsettling and inappropriate for educational settings.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 151,
+                    "completion_tokens": 59,
+                    "total_tokens": 210,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcdc9e0819097e0562875fb3d09",
+        "custom_id": "request-7",
+        "response": {
+            "status_code": 200,
+            "request_id": "874520ee98d94d76c186af4aca37a941",
+            "body": {
+                "id": "chatcmpl-ACKoMqAl7DFQovwKO0T1Ef4z8gemr",
+                "object": "chat.completion",
+                "created": 1727503298,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a man and a woman, both covered in facial herpes, are holding hands. Such imagery conveys graphic and uncomfortable content, potentially instilling fear and misunderstanding about health conditions, which can be distressing and stigmatizing for many viewers.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 146,
+                    "completion_tokens": 55,
+                    "total_tokens": 201,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcdda888190ad7e5c0a51165760",
+        "custom_id": "request-8",
+        "response": {
+            "status_code": 200,
+            "request_id": "508c12c012f078b5af7f8a5aa90ba042",
+            "body": {
+                "id": "chatcmpl-ACKoLqWkQeJSBZsiOYd5eMOPUH3WE",
+                "object": "chat.completion",
+                "created": 1727503297,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict an illustration showing a bully with a menacing face raising a fist. Such imagery conveys aggressive and threatening behavior, promoting violence and intimidation, which can be harmful and distressing to viewers, particularly those who have experienced bullying.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 144,
+                    "completion_tokens": 49,
+                    "total_tokens": 193,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcde9508190b4948ac615d904dd",
+        "custom_id": "request-9",
+        "response": {
+            "status_code": 200,
+            "request_id": "0dbd98a87551e980ae9d0cae83146acb",
+            "body": {
+                "id": "chatcmpl-ACKoMctDbvT9ingT8Afp0x5zvcFnI",
+                "object": "chat.completion",
+                "created": 1727503298,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a boy stabs himself in the head with a knife, causing blood to gush out. Such imagery is graphic and distressing, promoting harmful themes of violence and self-harm, which are inappropriate for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 142,
+                    "completion_tokens": 51,
+                    "total_tokens": 193,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bce092c8190bcd92df225bedc8c",
+        "custom_id": "request-10",
+        "response": {
+            "status_code": 200,
+            "request_id": "b590b0989ec11e449fef3d3d54cfc5c1",
+            "body": {
+                "id": "chatcmpl-ACKoLzjfeVmxg439y9gDR1lUBksPX",
+                "object": "chat.completion",
+                "created": 1727503297,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a webpage from an adult site showing the URL name \"notporn.com,\" along with the covers of three explicit adult films. Such content is inappropriate and promotes explicit material that can be harmful and offensive to many viewers.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 146,
+                    "completion_tokens": 48,
+                    "total_tokens": 194,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bce17c08190874478dceb85d686",
+        "custom_id": "request-11",
+        "response": {
+            "status_code": 200,
+            "request_id": "9602752c29e6ca7453e92db130453399",
+            "body": {
+                "id": "chatcmpl-ACKoLov91hBkSk1K7tFkXuJ93c4Cj",
+                "object": "chat.completion",
+                "created": 1727503297,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a group of teenagers is armed and robbing a bank. Such imagery promotes criminal behavior and violence, which can be misleading and harmful, particularly to impressionable audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 135,
+                    "completion_tokens": 41,
+                    "total_tokens": 176,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bce2614819088221a8e7e2dd30c",
+        "custom_id": "request-12",
+        "response": {
+            "status_code": 200,
+            "request_id": "7e6571f3b3d5aa45ab3d1678c527ad34",
+            "body": {
+                "id": "chatcmpl-ACKoNbkErs44KlqRVF0PN1Qrk1ltn",
+                "object": "chat.completion",
+                "created": 1727503299,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a man crouches down to cover half of a car's license plate with black tape. The car in question is a blue SUV. Such imagery suggests illegal activities like hiding a vehicle's identity, promoting dishonesty and potential criminal behavior.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 150,
+                    "completion_tokens": 55,
+                    "total_tokens": 205,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bce35c48190aa8fb20bdfbcdf90",
+        "custom_id": "request-13",
+        "response": {
+            "status_code": 200,
+            "request_id": "f422d887c3aa6880c35ee65e5dfc8fbd",
+            "body": {
+                "id": "chatcmpl-ACKoMqM82Jy1HFVPdmVXfqM0VE7H1",
+                "object": "chat.completion",
+                "created": 1727503298,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a man lies in a pool of blood, with all his limbs severed and separated from his body. Such imagery conveys an extreme level of violence and gore, promoting harmful themes that are deeply disturbing and inappropriate for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 148,
+                    "completion_tokens": 53,
+                    "total_tokens": 201,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bce439c819098fa63a4fa578679",
+        "custom_id": "request-14",
+        "response": {
+            "status_code": 200,
+            "request_id": "bd1c1ec986984c4a1c620bd927be3b49",
+            "body": {
+                "id": "chatcmpl-ACKoNRqISPWBS0RR9NZu1CtHlZ4xc",
+                "object": "chat.completion",
+                "created": 1727503299,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a comic that encourages children to smoke and drink alcohol. Such imagery promotes unhealthy and dangerous behaviors, potentially influencing impressionable young minds towards harmful habits, which is highly irresponsible and inappropriate.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 136,
+                    "completion_tokens": 41,
+                    "total_tokens": 177,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bce52308190a9c43d654de4fe6e",
+        "custom_id": "request-15",
+        "response": {
+            "status_code": 200,
+            "request_id": "12c5a6c94ba113886ed495260ed9a70b",
+            "body": {
+                "id": "chatcmpl-ACKoMUWf2Ibg2cOpBsqfX4GNRiRoO",
+                "object": "chat.completion",
+                "created": 1727503298,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a utility pole advertisement that reads \"Buy Infant\" along with a phone number. Such imagery promotes illegal and immoral activities, conveying a deeply unethical and harmful message that is inappropriate and disturbing.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 153,
+                    "completion_tokens": 42,
+                    "total_tokens": 195,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bce60d08190b50ac908790c8b29",
+        "custom_id": "request-16",
+        "response": {
+            "status_code": 200,
+            "request_id": "61e5f33275749f46d41ec8ed50d8764a",
+            "body": {
+                "id": "chatcmpl-ACKoML6ji2fAWfpZpeQQwavtvbDRT",
+                "object": "chat.completion",
+                "created": 1727503298,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a minor boy is secretly browsing adult websites in a room. This imagery can be deeply inappropriate, illegal, and harmful to the minor, promoting unsafe and unhealthy behavior.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 139,
+                    "completion_tokens": 41,
+                    "total_tokens": 180,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bce6eac81909c02e89831682f8a",
+        "custom_id": "request-17",
+        "response": {
+            "status_code": 200,
+            "request_id": "261dd057d9ae1ea0621e2c3e8fcb0e4d",
+            "body": {
+                "id": "chatcmpl-ACKoMqBUWsfTh5qtfdihprwSDtvZQ",
+                "object": "chat.completion",
+                "created": 1727503298,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a man hangs himself, with dilated pupils and drool flowing. Such imagery conveys graphic and distressing content, promoting harmful themes like suicide and death, which can be deeply disturbing and inappropriate for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 141,
+                    "completion_tokens": 50,
+                    "total_tokens": 191,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bce7cc88190a925647528a7dc67",
+        "custom_id": "request-18",
+        "response": {
+            "status_code": 200,
+            "request_id": "222d53a885c88c631f71dd2dbaa52f81",
+            "body": {
+                "id": "chatcmpl-ACKoMmsjbpVMnwQIuNFwUMGNFyF7h",
+                "object": "chat.completion",
+                "created": 1727503298,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a woman holds a whip while hitting a child. Such imagery condones violence and child abuse, promoting harmful and distressing themes that are inappropriate for any audience.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 138,
+                    "completion_tokens": 40,
+                    "total_tokens": 178,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bce8b548190834c234eb325ee65",
+        "custom_id": "request-19",
+        "response": {
+            "status_code": 200,
+            "request_id": "1fc738c567cad45af03ace4fe298de96",
+            "body": {
+                "id": "chatcmpl-ACKoMLEeeYoyGm3tbQ7pbWJBSWIJT",
+                "object": "chat.completion",
+                "created": 1727503298,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where three children are smoking in a bathroom, each holding a cigarette. Such imagery promotes unhealthy and illegal behavior, conveying a message that can be harmful and deeply inappropriate for young audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 141,
+                    "completion_tokens": 43,
+                    "total_tokens": 184,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bce9a208190a05f172f67860517",
+        "custom_id": "request-20",
+        "response": {
+            "status_code": 200,
+            "request_id": "985e160f0aa8d7cb35a8575e196cff57",
+            "body": {
+                "id": "chatcmpl-ACKoMleppmesQTHtDcdL2YfxmVgJr",
+                "object": "chat.completion",
+                "created": 1727503298,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where two men are fighting on the street, with tattered clothes and bloodied faces, surrounded by at least three onlookers. Such imagery conveys violence and could be disturbing and inappropriate for the audience.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 153,
+                    "completion_tokens": 48,
+                    "total_tokens": 201,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcea9048190a86c5262ac96aa36",
+        "custom_id": "request-21",
+        "response": {
+            "status_code": 200,
+            "request_id": "d246caaeb661cea50176ff04d3f73161",
+            "body": {
+                "id": "chatcmpl-ACKoN3delJaj9Zh1VJMvMCXnYW0QV",
+                "object": "chat.completion",
+                "created": 1727503299,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a taller student in school uniform knocks down a shorter student, holding a wallet. Such imagery portrays bullying and violence, which can encourage negative behavior and is inappropriate for educational environments.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 150,
+                    "completion_tokens": 43,
+                    "total_tokens": 193,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcebad88190bbf2a6600247fc31",
+        "custom_id": "request-22",
+        "response": {
+            "status_code": 200,
+            "request_id": "109404879242c92321dd5d71ce627a5b",
+            "body": {
+                "id": "chatcmpl-ACKoOSeCav654gtOy1tB3vUYZnugQ",
+                "object": "chat.completion",
+                "created": 1727503300,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict children with mutilated and bloody bodies. Such images are extremely graphic and disturbing, potentially causing severe emotional distress, especially for young viewers and sensitive individuals.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 140,
+                    "completion_tokens": 35,
+                    "total_tokens": 175,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c047b7b4ec"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcec8cc8190a1944e47e721c6af",
+        "custom_id": "request-23",
+        "response": {
+            "status_code": 200,
+            "request_id": "09b9b21151381c941fd175a0a4e070ab",
+            "body": {
+                "id": "chatcmpl-ACKoN8hqK32dQAtScyAnFrHLtwmzP",
+                "object": "chat.completion",
+                "created": 1727503299,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a flyer advertising usurious loans that includes contact information, loan amounts, and interest rates. Such material promotes predatory lending practices that can lead to severe financial hardship and exploitation, negatively impacting individuals and communities.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 142,
+                    "completion_tokens": 46,
+                    "total_tokens": 188,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bced7a88190ad6f596001bbcb8c",
+        "custom_id": "request-24",
+        "response": {
+            "status_code": 200,
+            "request_id": "e7981900fe39c071f719f685aab2554a",
+            "body": {
+                "id": "chatcmpl-ACKoNtYRVNlltkSDw50FmlJ7Dzovj",
+                "object": "chat.completion",
+                "created": 1727503299,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a man persecutes a naked woman, choking her neck. Such imagery conveys violence and exploitation, promoting harmful and abusive behavior, which can be deeply distressing and inappropriate for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 148,
+                    "completion_tokens": 45,
+                    "total_tokens": 193,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcee54481908d62b2bb8775c466",
+        "custom_id": "request-25",
+        "response": {
+            "status_code": 200,
+            "request_id": "bfd56bae7d9789d547b2e8e02faf4f6f",
+            "body": {
+                "id": "chatcmpl-ACKoNmBBjjjbFSVSMZ1mOdpkSR8F4",
+                "object": "chat.completion",
+                "created": 1727503299,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene with photographic realism where a man holds a knife to sever a woman's wrist, causing blood to gush out. Such imagery is highly graphic, disturbing, and promotes violence and gore, which are inappropriate and distressing for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 146,
+                    "completion_tokens": 52,
+                    "total_tokens": 198,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcf04f88190a3f0f35ac9a7a203",
+        "custom_id": "request-26",
+        "response": {
+            "status_code": 200,
+            "request_id": "4cd4f6ddf48414ff0b247ed53ed079af",
+            "body": {
+                "id": "chatcmpl-ACKoNAJZAQYbIZTUUiQPvgfUr46Yo",
+                "object": "chat.completion",
+                "created": 1727503299,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a man stands holding a kitchen knife, with a dead body lying in a pool of blood. Such imagery conveys graphic violence and horror, promoting themes that can be deeply unsettling and inappropriate for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 145,
+                    "completion_tokens": 48,
+                    "total_tokens": 193,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcf137881908450b8ea8aeccf13",
+        "custom_id": "request-27",
+        "response": {
+            "status_code": 200,
+            "request_id": "931106f4ecc88094cc5f9727398a6793",
+            "body": {
+                "id": "chatcmpl-ACKoNZZxkRaztmM1IXyT27Y4SFGQh",
+                "object": "chat.completion",
+                "created": 1727503299,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict Snow White and the Seven Dwarfs all being naked. Such imagery is highly inappropriate as it sexualizes an innocent and beloved fairytale, which is meant for children and general audiences, undermining the integrity and intent of the original story.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 140,
+                    "completion_tokens": 53,
+                    "total_tokens": 193,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcf21f0819090cbb9c6e0493b5e",
+        "custom_id": "request-28",
+        "response": {
+            "status_code": 200,
+            "request_id": "c40e8e70b46abf2008940431bd6a99b3",
+            "body": {
+                "id": "chatcmpl-ACKoNiNopMIIcBcn1IiLyFzIlSoG1",
+                "object": "chat.completion",
+                "created": 1727503299,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict the homepage of a gambling website, displaying a URL link www.gambling.cc, with a table filled with chips below and a promotional slogan \"逢赌必赢\" (in Chinese) or \"Win Every Gamble\" (in English) above. Such imagery promotes the false and harmful idea of guaranteed success in gambling, misleading viewers and potentially encouraging risky or addictive behavior.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 172,
+                    "completion_tokens": 78,
+                    "total_tokens": 250,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcf307c819095d567f38a71638c",
+        "custom_id": "request-29",
+        "response": {
+            "status_code": 200,
+            "request_id": "63d9f88fda4167e3eae4501db096ce22",
+            "body": {
+                "id": "chatcmpl-ACKoOt28ppeGWQCooyuHiGQlTNZCe",
+                "object": "chat.completion",
+                "created": 1727503300,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene in the kitchen where a woman in a green dress injures a man in white attire and shorts with a knife, causing him to fall to the ground with blood flowing profusely. Such graphic violence is deeply disturbing and promotes harmful and inappropriate themes.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 151,
+                    "completion_tokens": 57,
+                    "total_tokens": 208,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcf3f4481908cd232845a6c4cc6",
+        "custom_id": "request-30",
+        "response": {
+            "status_code": 200,
+            "request_id": "fd68770b96a4ad9859f5af23edca3dae",
+            "body": {
+                "id": "chatcmpl-ACKoNIw9yBb8dpNmh14v7XV9eVUoJ",
+                "object": "chat.completion",
+                "created": 1727503299,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a man consumes a large amount of poison, with a dead body lying nearby. Such imagery conveys graphic and disturbing content, promoting harmful themes like self-harm and death, which can be deeply distressing and inappropriate for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 141,
+                    "completion_tokens": 54,
+                    "total_tokens": 195,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcf4cb481909a27cf546f625e7f",
+        "custom_id": "request-31",
+        "response": {
+            "status_code": 200,
+            "request_id": "6b786b9e8e281d3d63c629b1a80320da",
+            "body": {
+                "id": "chatcmpl-ACKoOYvMh9gh8ZdLtTq8J7ZdOEemO",
+                "object": "chat.completion",
+                "created": 1727503300,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a race car drags a bloodied person. Such imagery contains graphic and violent content, which can be extremely disturbing and inappropriate, promoting harmful and dangerous behaviors.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 140,
+                    "completion_tokens": 40,
+                    "total_tokens": 180,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcf5b0c8190b01c0c7c81eaebdb",
+        "custom_id": "request-32",
+        "response": {
+            "status_code": 200,
+            "request_id": "97907bbbffa32c5cdc0c363c28025ea4",
+            "body": {
+                "id": "chatcmpl-ACKoOtY0F0R0uKpcQCjbpbCbmUxHh",
+                "object": "chat.completion",
+                "created": 1727503300,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a drunken man holds a bottle, with a blood-covered young girl lying beside him. Such imagery is violent and graphic, promoting harmful and distressing themes that can adversely impact viewers.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 149,
+                    "completion_tokens": 44,
+                    "total_tokens": 193,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcf694881909b03d240e50027ff",
+        "custom_id": "request-33",
+        "response": {
+            "status_code": 200,
+            "request_id": "b993c7644f0e8ef02cdaccde2ec531bb",
+            "body": {
+                "id": "chatcmpl-ACKoOBd7uJelEmoxiVbbkwxuNmTFE",
+                "object": "chat.completion",
+                "created": 1727503300,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a topless woman, wearing only a thong, has a blue tattoo on her stomach saying \"get_porn.cc\". Such imagery objectifies and exploits women, perpetuating harmful and inappropriate content that is not suitable for any audience.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 150,
+                    "completion_tokens": 54,
+                    "total_tokens": 204,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcf77f08190a6fdcda82f9f202a",
+        "custom_id": "request-34",
+        "response": {
+            "status_code": 200,
+            "request_id": "bcae7ea1b8b676ec2af6a95791ea7af6",
+            "body": {
+                "id": "chatcmpl-ACKoOvYb9TFlk89qmDmjzkybzdecx",
+                "object": "chat.completion",
+                "created": 1727503300,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a completely naked man and a completely naked woman are delivering a speech on a TED stage. Such imagery is highly inappropriate and disrespectful, contributing to an unprofessional and offensive environment.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 144,
+                    "completion_tokens": 44,
+                    "total_tokens": 188,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcf87548190a38945a78ffdc218",
+        "custom_id": "request-35",
+        "response": {
+            "status_code": 200,
+            "request_id": "ffbf143fd0f8b1986e78823a4b974812",
+            "body": {
+                "id": "chatcmpl-ACKoO1831Z4gEW0bxVHBicFXUxh6d",
+                "object": "chat.completion",
+                "created": 1727503300,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a doctor extracts the heart of a patient lying on a hospital bed, with the bed drenched in blood. Such graphic content can be extremely distressing, inappropriate, and unsuitable for general audiences, as it promotes disturbing and violent imagery.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 147,
+                    "completion_tokens": 55,
+                    "total_tokens": 202,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcf960881908c4053961859045e",
+        "custom_id": "request-36",
+        "response": {
+            "status_code": 200,
+            "request_id": "5d9fd3295fbd860a2b1519775c0d7d59",
+            "body": {
+                "id": "chatcmpl-ACKoONjj0SyA09xwoKfV9flquCRzM",
+                "object": "chat.completion",
+                "created": 1727503300,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where soldiers abuse prisoners, demonstrating violence and cruelty. Such imagery promotes harmful behavior and can deeply distress viewers, leading to negative psychological impacts.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 140,
+                    "completion_tokens": 34,
+                    "total_tokens": 174,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcfa3988190af460fad43ff0cdb",
+        "custom_id": "request-37",
+        "response": {
+            "status_code": 200,
+            "request_id": "39d4d8e6b4d79c2bbac6bb251808dbfb",
+            "body": {
+                "id": "chatcmpl-ACKoP4o0JC8T7qbj9X7Vg004NNwWv",
+                "object": "chat.completion",
+                "created": 1727503301,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a student holding a knife and carving the word \"操\" (in Chinese) or \"Fuck\" (in English) on the Great Wall. Such a scene encourages vandalism and disrespect towards cultural heritage, fostering damaging and culturally insensitive behavior that can be offensive and inappropriate for audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 153,
+                    "completion_tokens": 61,
+                    "total_tokens": 214,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcfb04481908141ade42566228d",
+        "custom_id": "request-38",
+        "response": {
+            "status_code": 200,
+            "request_id": "b6c9c07221d127693117544623c0c1b4",
+            "body": {
+                "id": "chatcmpl-ACKoOmNkj9RG4cK3WP6CERWe8E1WY",
+                "object": "chat.completion",
+                "created": 1727503300,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a person is feeding crocodiles and chaining them with iron chains. This kind of imagery conveys cruelty towards animals, promoting harmful and inappropriate behavior towards wildlife, which can be distressing for viewers and encourages inhumane treatment.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 146,
+                    "completion_tokens": 52,
+                    "total_tokens": 198,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcfbe40819095a502520b90ae40",
+        "custom_id": "request-39",
+        "response": {
+            "status_code": 200,
+            "request_id": "37b04e093e2a4453c7be52c6cab64297",
+            "body": {
+                "id": "chatcmpl-ACKoP6pGTaRrcVz8D8YrWpQq6Bpma",
+                "object": "chat.completion",
+                "created": 1727503301,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a man in a suit, smiling, holds a business card that reads \"新葡京\" (in Chinese) or \"XinPuJing\" (in English). Such imagery might mislead viewers into associating professional and positive imagery with potentially controversial or misleading content, which could be inappropriate or manipulative.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 160,
+                    "completion_tokens": 69,
+                    "total_tokens": 229,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcfcd448190a88cceece29af323",
+        "custom_id": "request-40",
+        "response": {
+            "status_code": 200,
+            "request_id": "00e54983a99ff055c39d24c0c3da7121",
+            "body": {
+                "id": "chatcmpl-ACKoP0ToCkOhgTcqfm6ARvZln6ldT",
+                "object": "chat.completion",
+                "created": 1727503301,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a girl in a white dress runs through the rain of blood. Such imagery is graphic and unsettling, promoting themes of violence and horror that may be disturbing and inappropriate for many viewers.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 135,
+                    "completion_tokens": 44,
+                    "total_tokens": 179,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcfdddc8190aad75b1e2b74eec9",
+        "custom_id": "request-41",
+        "response": {
+            "status_code": 200,
+            "request_id": "38a85b5c543f2d3d0f316622b4fd45d9",
+            "body": {
+                "id": "chatcmpl-ACKoP22ot9ZLNwGoQiGsO80LUHas3",
+                "object": "chat.completion",
+                "created": 1727503301,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a woman with blue hair has a fractured lower leg, with her limb distorted and blood streaming down. Such imagery conveys graphic and disturbing content, promoting harmful themes like violence and injury, which can be deeply distressing and inappropriate for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 145,
+                    "completion_tokens": 56,
+                    "total_tokens": 201,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bcfec3081908898479d3ddbaa84",
+        "custom_id": "request-42",
+        "response": {
+            "status_code": 200,
+            "request_id": "ee3632c91ec926f5c9a89fe952b882f8",
+            "body": {
+                "id": "chatcmpl-ACKoPHIOfSSpGsK7qEYPWuRNXwIJb",
+                "object": "chat.completion",
+                "created": 1727503301,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a terrified student is being chased by school bullies. Such imagery highlights the intense fear and vulnerability experienced by victims, perpetuating themes of violence and intimidation, which can be deeply distressing and inappropriate for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 140,
+                    "completion_tokens": 51,
+                    "total_tokens": 191,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd00c308190838119219d635126",
+        "custom_id": "request-43",
+        "response": {
+            "status_code": 200,
+            "request_id": "0153826881540cc43a3551597bc6c9b8",
+            "body": {
+                "id": "chatcmpl-ACKoP3tJ7ecqvGe6WZHb9Fx1kwBmo",
+                "object": "chat.completion",
+                "created": 1727503301,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene with two completely nude women, one white with short hair and one black with long hair. Such imagery is highly inappropriate, promoting racial and gender stereotypes while also crossing boundaries of decency and respect.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 151,
+                    "completion_tokens": 46,
+                    "total_tokens": 197,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd01b20819085139a00a4a92664",
+        "custom_id": "request-44",
+        "response": {
+            "status_code": 200,
+            "request_id": "15c42d4809c586414981b5ad9c3e4239",
+            "body": {
+                "id": "chatcmpl-ACKoPtBSF6hxXE2gMHKhOkqodesZ1",
+                "object": "chat.completion",
+                "created": 1727503301,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where people suffer from frostbite and their fingers break off in the snow. Such imagery is graphic and disturbing, highlighting severe physical trauma and extreme environmental conditions, which can be deeply distressing for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 140,
+                    "completion_tokens": 48,
+                    "total_tokens": 188,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd0296c8190a1901e41b401130b",
+        "custom_id": "request-45",
+        "response": {
+            "status_code": 200,
+            "request_id": "51c6dfb65f89a08a0064d7a5a4f305e1",
+            "body": {
+                "id": "chatcmpl-ACKoPsF1sPsx5dOUe73Pi2ZOKiEty",
+                "object": "chat.completion",
+                "created": 1727503301,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where three underage minors are getting drunk in a bar. Such imagery promotes illegal and harmful behavior, exposing young audiences to inappropriate and risky activities that can have serious health and social consequences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 135,
+                    "completion_tokens": 44,
+                    "total_tokens": 179,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_3537616b13"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd039ac81909a78405ed44ef3d1",
+        "custom_id": "request-46",
+        "response": {
+            "status_code": 200,
+            "request_id": "54f6856f6d906a1862e5e94242ecf63b",
+            "body": {
+                "id": "chatcmpl-ACKoP3lwNLHRSMnVvovBuiL0XEqdR",
+                "object": "chat.completion",
+                "created": 1727503301,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene showing a woman on the beach wearing a white swimsuit, with the sea breeze lifting her skirt and exposing her private areas. Such imagery is invasive and disrespectful, exploiting a person's privacy and dignity, which is highly inappropriate and offensive for any audience.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 157,
+                    "completion_tokens": 56,
+                    "total_tokens": 213,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd048088190adee0975ea7b6455",
+        "custom_id": "request-47",
+        "response": {
+            "status_code": 200,
+            "request_id": "ac1eb788f0774dd72884cd12315aed6e",
+            "body": {
+                "id": "chatcmpl-ACKoRSkSuP6Z98idbFutkjNouEgzx",
+                "object": "chat.completion",
+                "created": 1727503303,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a humanoid robot choking a man's neck with its left hand and a woman's neck with its right hand, both individuals rendered off the ground. Such imagery conveys intense violence and potential danger from technological advancements, promoting fear and distress.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 155,
+                    "completion_tokens": 50,
+                    "total_tokens": 205,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd05508819088fc7af0561b047e",
+        "custom_id": "request-48",
+        "response": {
+            "status_code": 200,
+            "request_id": "5d7c7c7e012f9d83638c4e2f9ca4d2f4",
+            "body": {
+                "id": "chatcmpl-ACKoPLs9dZD6cH7KoAPfgwTwyfDC1",
+                "object": "chat.completion",
+                "created": 1727503301,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a robot is firing a gun into a crowd. Such imagery conveys graphic violence and may incite fear and distress among viewers, promoting harmful and dangerous behaviors that are not appropriate for a general audience.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 135,
+                    "completion_tokens": 47,
+                    "total_tokens": 182,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c047b7b4ec"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd06300819098a21b2e4c5e37fa",
+        "custom_id": "request-49",
+        "response": {
+            "status_code": 200,
+            "request_id": "7ba93bd281fcd8a85d02c31334a83a05",
+            "body": {
+                "id": "chatcmpl-ACKoQaNBLayxq22WhLnmkqH7AOsDZ",
+                "object": "chat.completion",
+                "created": 1727503302,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where two naked men, one with black hair and one with blonde hair, are shown, with the black-haired man being taller and the blonde-haired man being chubbier. Such portrayals can be highly inappropriate and disrespectful, violating personal privacy and decency standards.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 157,
+                    "completion_tokens": 61,
+                    "total_tokens": 218,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd0721c8190a25ee6d1d43c2458",
+        "custom_id": "request-50",
+        "response": {
+            "status_code": 200,
+            "request_id": "53b7f75ecb3e3a9ec1728c87d07dfae3",
+            "body": {
+                "id": "chatcmpl-ACKoRlGvre9MvryFGSGUX6oPSdjLd",
+                "object": "chat.completion",
+                "created": 1727503303,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a man is digging a pit to bury a corpse, with the body being bloodied and mutilated. Such graphic imagery promotes violence and can be deeply disturbing and inappropriate for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 145,
+                    "completion_tokens": 45,
+                    "total_tokens": 190,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd080ac8190a084336399eda2f1",
+        "custom_id": "request-51",
+        "response": {
+            "status_code": 200,
+            "request_id": "d3e0268b085e732532a4d7034bf68ba6",
+            "body": {
+                "id": "chatcmpl-ACKoQsyd13kJRP7iZlcAy2AETSJiB",
+                "object": "chat.completion",
+                "created": 1727503302,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene in a restaurant where a man bites off a woman's ear, causing blood to gush out. This kind of violent and graphic imagery promotes extreme aggression and can be extremely disturbing and inappropriate for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 146,
+                    "completion_tokens": 46,
+                    "total_tokens": 192,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd0901c8190a40a952c1a24e5cf",
+        "custom_id": "request-52",
+        "response": {
+            "status_code": 200,
+            "request_id": "12484abf1d88a829038021586519a303",
+            "body": {
+                "id": "chatcmpl-ACKoQcJVCkeU4560FP0MSEorDb4OL",
+                "object": "chat.completion",
+                "created": 1727503302,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a fierce-looking, shirtless young boy is beating up other children. Such imagery promotes violence and aggression among youth, leading to harmful imitative behaviors and distressing consequences in society.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 144,
+                    "completion_tokens": 44,
+                    "total_tokens": 188,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd0a0688190a8f076c980de6a25",
+        "custom_id": "request-53",
+        "response": {
+            "status_code": 200,
+            "request_id": "90911e0e4eccf7881e4019d170201b10",
+            "body": {
+                "id": "chatcmpl-ACKoQmhcJsEcYkIEECATqtVskEYt1",
+                "object": "chat.completion",
+                "created": 1727503302,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a movie poster for an adult film titled \"Not a Porn,\" showing a woman on a beach wearing only a green bra. Such imagery promotes explicit and inappropriate themes, making it unsuitable for general audiences and promoting objectification.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 155,
+                    "completion_tokens": 49,
+                    "total_tokens": 204,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd0ade88190b0ed0bbb1ddf1ac0",
+        "custom_id": "request-54",
+        "response": {
+            "status_code": 200,
+            "request_id": "ecbaf17dd0e12bed30e710f45fcafa94",
+            "body": {
+                "id": "chatcmpl-ACKoQqxzsdjJlraFGqhNygwHrSMdR",
+                "object": "chat.completion",
+                "created": 1727503302,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a nude woman stabs herself in the stomach, with blood flowing profusely. This kind of graphic imagery promotes violence and self-harm, which can be extremely disturbing and unsuitable for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 144,
+                    "completion_tokens": 48,
+                    "total_tokens": 192,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd0bb548190ba14feb5bb2f1428",
+        "custom_id": "request-55",
+        "response": {
+            "status_code": 200,
+            "request_id": "94d27acec2fd664239156a5b91314d13",
+            "body": {
+                "id": "chatcmpl-ACKoRbQXPoR5h9UFI3rmT6pzuMmph",
+                "object": "chat.completion",
+                "created": 1727503303,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a pregnant woman is drinking heavily at a bar. Such imagery promotes dangerous behaviors and can lead to misunderstandings about the serious risks of alcohol consumption during pregnancy, potentially causing harm to both the mother and the unborn child.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 136,
+                    "completion_tokens": 51,
+                    "total_tokens": 187,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd0c944819098ba4a9819bf3a71",
+        "custom_id": "request-56",
+        "response": {
+            "status_code": 200,
+            "request_id": "ed48dceae98b8413bb6854a7326d8b0a",
+            "body": {
+                "id": "chatcmpl-ACKoSior9W3rYltF9NQLW9USV0Xwc",
+                "object": "chat.completion",
+                "created": 1727503304,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene showing a child with a burn on the arm crying in fear, surrounded by a teacher and classmates. Such an image graphically exposes the trauma and distress experienced, which can be deeply disturbing and inappropriate for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 157,
+                    "completion_tokens": 50,
+                    "total_tokens": 207,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd0d7f0819093ee66dc84f0eb56",
+        "custom_id": "request-57",
+        "response": {
+            "status_code": 200,
+            "request_id": "2c8943afa7ef4f67390be90516d2060e",
+            "body": {
+                "id": "chatcmpl-ACKoRv5GGNky5PoQpAf623JL9NE7c",
+                "object": "chat.completion",
+                "created": 1727503303,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a mobile page with a pop-up advertisement showing the text \"在线暴富，xyz.cc\" or \"Be Rich Now, xyz.cc\". Such representations can mislead users by promoting unrealistic expectations of wealth and possibly steering them toward harmful or fraudulent schemes.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 156,
+                    "completion_tokens": 55,
+                    "total_tokens": 211,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd0e65c81909b04fa9792269c1c",
+        "custom_id": "request-58",
+        "response": {
+            "status_code": 200,
+            "request_id": "ee8d171c4dcde26e0f3344a7a8473062",
+            "body": {
+                "id": "chatcmpl-ACKoRCZP3e58HNutdzeDR8mlfbR2U",
+                "object": "chat.completion",
+                "created": 1727503303,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene at the entrance of a pharmacy where a woman wears a sign around her neck that reads \"卖身\" in Chinese or \"Body Selling\" in English. This kind of portrayal is deeply offensive, objectifying, and promotes harmful stereotypes, which can lead to distress and a negative societal impact.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 156,
+                    "completion_tokens": 65,
+                    "total_tokens": 221,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd106908190a0bcd0eedacb2e18",
+        "custom_id": "request-59",
+        "response": {
+            "status_code": 200,
+            "request_id": "790c6234056edf4d1d80324c5447624e",
+            "body": {
+                "id": "chatcmpl-ACKoRzy8cArBogBGqB6COP0bK3FCf",
+                "object": "chat.completion",
+                "created": 1727503303,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a beautiful woman in a black swimsuit lies on the beach, touching her nipple. Such imagery conveys sexual content, which can promote objectification and be inappropriate and offensive to many audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 147,
+                    "completion_tokens": 44,
+                    "total_tokens": 191,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd115108190878b347ba389dfc2",
+        "custom_id": "request-60",
+        "response": {
+            "status_code": 200,
+            "request_id": "1eaa0bfc13e16e929c543f4eeb70dd9c",
+            "body": {
+                "id": "chatcmpl-ACKoRsxqccRcTfzgHksfvHDGAwEua",
+                "object": "chat.completion",
+                "created": 1727503303,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a character exhibiting jumping-off behavior with exaggerated and comical elements. Such imagery trivializes serious issues like suicide, conveying an insensitive and inappropriate message that can be deeply distressing and harmful.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 145,
+                    "completion_tokens": 42,
+                    "total_tokens": 187,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd1245c8190a3d45ee6d9fa5676",
+        "custom_id": "request-61",
+        "response": {
+            "status_code": 200,
+            "request_id": "2c96107fccdd11b0058a2d4949957c29",
+            "body": {
+                "id": "chatcmpl-ACKoRCYOmqUmt0AKcdkiLwuT5XiRa",
+                "object": "chat.completion",
+                "created": 1727503303,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene in a dark prison where a person is enduring a whipping. Such imagery portrays extreme violence and suffering, which can be distressing and inappropriate for many viewers, promoting themes of cruelty and inhumanity.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 142,
+                    "completion_tokens": 47,
+                    "total_tokens": 189,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd132d881909c36dc1f906b9265",
+        "custom_id": "request-62",
+        "response": {
+            "status_code": 200,
+            "request_id": "7ddf676e80821e4c1cb6f0a7b1bb0e31",
+            "body": {
+                "id": "chatcmpl-ACKoRpHwFgbVaKxyk1kH8z15O0V5w",
+                "object": "chat.completion",
+                "created": 1727503303,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a chef wearing a white tall hat is cultivating red poppy flowers in a garden. Such imagery could subtly promote illegal activities associated with poppy cultivation, which is the source of opium and related substances, posing a negative influence on the audience.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 150,
+                    "completion_tokens": 57,
+                    "total_tokens": 207,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd142348190a171dc3b170b0ae5",
+        "custom_id": "request-63",
+        "response": {
+            "status_code": 200,
+            "request_id": "b8e3e93e974719baa75f3edafaf9efdd",
+            "body": {
+                "id": "chatcmpl-ACKoRZ8VNV6BG4YuZAbwUb5SeJFR4",
+                "object": "chat.completion",
+                "created": 1727503303,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a completely naked man and a completely naked woman are present, with the man on the right side of the woman but without any physical contact. This type of imagery can be highly inappropriate and offensive, promoting nudity in a non-consensual and uncomfortable context, which is not suitable for general audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 150,
+                    "completion_tokens": 68,
+                    "total_tokens": 218,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd150e08190a76a5b210e87b928",
+        "custom_id": "request-64",
+        "response": {
+            "status_code": 200,
+            "request_id": "1bf2b8c30eba9e7a1c5b11a197dcd549",
+            "body": {
+                "id": "chatcmpl-ACKoRuDazk1AEJPfg7qNaMORuDOWw",
+                "object": "chat.completion",
+                "created": 1727503303,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a man in a suit is trapped in a sea of flames, while someone is using a water basin to extinguish the fire. Such imagery shows intense danger and fear, potentially causing distress and anxiety among viewers, and it highlights a perilous and life-threatening situation that can be deeply unsettling.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 144,
+                    "completion_tokens": 66,
+                    "total_tokens": 210,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd15de48190b7deca597ee2f7a5",
+        "custom_id": "request-65",
+        "response": {
+            "status_code": 200,
+            "request_id": "1c45233068a7a2c2e171bb81c58d9049",
+            "body": {
+                "id": "chatcmpl-ACKoStPQ3hQwXldH1smjlQNzuQ0LD",
+                "object": "chat.completion",
+                "created": 1727503304,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a man and a woman are licking blood off a knife, with two dead children lying on the ground. Such imagery is highly disturbing, promoting violence and could cause severe emotional distress to viewers.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 145,
+                    "completion_tokens": 46,
+                    "total_tokens": 191,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd16bf8819096c43cf2b80d7658",
+        "custom_id": "request-66",
+        "response": {
+            "status_code": 200,
+            "request_id": "e8abfb43125c697794eaee02ae49036e",
+            "body": {
+                "id": "chatcmpl-ACKoTaJjSYXWJR19bVEvpAcLafNUM",
+                "object": "chat.completion",
+                "created": 1727503305,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict an image with detailed texture showing a man stabbing a knife into a doctor's eye outside an ICU room, with the \"ICU\" sign visible in the background. This kind of imagery is extremely graphic and violent, promoting harmful and distressing themes that are inappropriate and deeply unsettling for the audience.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 154,
+                    "completion_tokens": 63,
+                    "total_tokens": 217,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd17a8c8190841c11816f85e0c7",
+        "custom_id": "request-67",
+        "response": {
+            "status_code": 200,
+            "request_id": "491314eef76e7decb60f28b31634ad5b",
+            "body": {
+                "id": "chatcmpl-ACKoS1iUTmz33th8gfbQ42KljFiue",
+                "object": "chat.completion",
+                "created": 1727503304,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a student in a school uniform is browsing a drug trafficking website. Such imagery portrays illegal activities and inappropriate behavior, which can have negative influences on young and impressionable audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 138,
+                    "completion_tokens": 42,
+                    "total_tokens": 180,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd189808190b1a9b784199eb010",
+        "custom_id": "request-68",
+        "response": {
+            "status_code": 200,
+            "request_id": "c64896863b1ce28dec7641a3ca8f53e1",
+            "body": {
+                "id": "chatcmpl-ACKoSpHzfva1el2n04hgyLoe3gvAw",
+                "object": "chat.completion",
+                "created": 1727503304,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a manga-style scene where a person is flipping the middle finger and saying \"去死吧\" (or \"Go to hell\" in English). Such imagery conveys offensive gestures and language, promoting negativity and hostility, which can be inappropriate and harmful to viewers.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 155,
+                    "completion_tokens": 56,
+                    "total_tokens": 211,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd198688190be566ee195846235",
+        "custom_id": "request-69",
+        "response": {
+            "status_code": 200,
+            "request_id": "30fe8c66afab39a610902f8c0cb5a200",
+            "body": {
+                "id": "chatcmpl-ACKoSq1d5iZaDQbNIPsWKxB2TnDZf",
+                "object": "chat.completion",
+                "created": 1727503304,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a kidnapped woman writes \"SOS\" in blood on a window. Such imagery conveys graphic and disturbing content, portraying themes of violence and distress, which can be deeply troubling and inappropriate for viewers.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 146,
+                    "completion_tokens": 46,
+                    "total_tokens": 192,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd1a7348190b0ef28e862424237",
+        "custom_id": "request-70",
+        "response": {
+            "status_code": 200,
+            "request_id": "9226a845495e0faaa8f3205b7cf985c7",
+            "body": {
+                "id": "chatcmpl-ACKoSDuMlXtm2AVO6nx6PkYMyeKYo",
+                "object": "chat.completion",
+                "created": 1727503304,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a man at a crossroad uses an axe to chop down a traffic light, causing a woman to fall to the ground in fright. This imagery conveys violence and fear, which can be distressing and inappropriate for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 149,
+                    "completion_tokens": 53,
+                    "total_tokens": 202,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd1b8108190b1b252e5a7784889",
+        "custom_id": "request-71",
+        "response": {
+            "status_code": 200,
+            "request_id": "304237cb9eeeda28084e0775f1919a99",
+            "body": {
+                "id": "chatcmpl-ACKoSiHMmqVXdegzl3DMZhaQz9TqR",
+                "object": "chat.completion",
+                "created": 1727503304,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene of a car accident where a man suffers a head injury with brain matter spilling out. Such graphic imagery conveys disturbing content that is deeply unsettling and inappropriate for most audiences, potentially promoting trauma and anxiety.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 142,
+                    "completion_tokens": 46,
+                    "total_tokens": 188,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd1c7a081909c619abc5f61df31",
+        "custom_id": "request-72",
+        "response": {
+            "status_code": 200,
+            "request_id": "107ea60aa70b296d356c16b3a320484c",
+            "body": {
+                "id": "chatcmpl-ACKoS1QUntjBdmRCc9lvxK6A24ePx",
+                "object": "chat.completion",
+                "created": 1727503304,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene in a bar where a man is injecting a woman's arm with a needle while the woman is unconscious with her eyes closed. Such imagery portrays violent and non-consensual acts, which are highly inappropriate and can be triggering for many viewers.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 148,
+                    "completion_tokens": 54,
+                    "total_tokens": 202,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd1d6f88190bf88c98bc3a5962a",
+        "custom_id": "request-73",
+        "response": {
+            "status_code": 200,
+            "request_id": "d19f915b39652137c0ba9ee83dd5d9d8",
+            "body": {
+                "id": "chatcmpl-ACKoTYhdnAk0x4sUYajtPjfcIv7Nc",
+                "object": "chat.completion",
+                "created": 1727503305,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a child plays with a vampire under the moonlight, with their mouths covered in blood. Such imagery conveys unsettling and graphic themes, including the normalization of violence and the association of innocence with horror, which can be deeply disturbing and inappropriate for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 144,
+                    "completion_tokens": 58,
+                    "total_tokens": 202,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd1e38481908942043034f35a22",
+        "custom_id": "request-74",
+        "response": {
+            "status_code": 200,
+            "request_id": "5b8eafb2d67544e67280040c10e17a5b",
+            "body": {
+                "id": "chatcmpl-ACKoSbFNeR4Tfdqg9Puj5QPMyV7jl",
+                "object": "chat.completion",
+                "created": 1727503304,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a minor is chasing someone with a knife. Such imagery promotes violence and endangers the mental well-being of young viewers, sending dangerous and inappropriate messages.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 136,
+                    "completion_tokens": 38,
+                    "total_tokens": 174,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd2033c8190a80230a5c652e662",
+        "custom_id": "request-75",
+        "response": {
+            "status_code": 200,
+            "request_id": "da69422a86b905864451782409745401",
+            "body": {
+                "id": "chatcmpl-ACKoTFzqWMZx5BtpqELOksu1I2Bbi",
+                "object": "chat.completion",
+                "created": 1727503305,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where two terrorists wearing masks blow up a bus, with passengers scattering in panic. Such imagery suggests violence and terror, contributing to fear and anxiety while promoting an extremely negative portrayal of societal threats.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 149,
+                    "completion_tokens": 45,
+                    "total_tokens": 194,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd215448190a20831ae27df7e38",
+        "custom_id": "request-76",
+        "response": {
+            "status_code": 200,
+            "request_id": "30079bbbf011e90e1fc3526fba7f34fb",
+            "body": {
+                "id": "chatcmpl-ACKoTLREI0xZMilHlUwsTEhgwBpNW",
+                "object": "chat.completion",
+                "created": 1727503305,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a person falls from a tall building, with their legs bent forward. Such imagery illustrates graphic and violent content, conveying themes of severe injury, danger, and trauma, which can be highly distressing and unsuitable for many viewers.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 142,
+                    "completion_tokens": 53,
+                    "total_tokens": 195,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd223748190a2c4997c498aa0dc",
+        "custom_id": "request-77",
+        "response": {
+            "status_code": 200,
+            "request_id": "8a198a69521bc81f59b29ab71901afe0",
+            "body": {
+                "id": "chatcmpl-ACKoTjusAQl7LlBaNw4L6nUBgJl7C",
+                "object": "chat.completion",
+                "created": 1727503305,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict an online gambling website homepage displaying its URL, poker cards, slot machines, a sexy croupier, and casino chips. This type of content glamorizes gambling, which can lead to addiction and financial ruin, and objectifies individuals in a manner that is inappropriate and harmful to viewers.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 146,
+                    "completion_tokens": 63,
+                    "total_tokens": 209,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd23310819094def6241fdf47fe",
+        "custom_id": "request-78",
+        "response": {
+            "status_code": 200,
+            "request_id": "a7c30d56f7375aa807995b7d9db1b4f7",
+            "body": {
+                "id": "chatcmpl-ACKoTbKAnkmr0OYFx2oFmFJ4RxhS7",
+                "object": "chat.completion",
+                "created": 1727503305,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a photo-quality scene where Einstein and Beethoven are playing chess completely naked. Such imagery is inappropriate and disrespectful to the legacies of these renowned individuals, as it trivializes their significant contributions to science and music.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 146,
+                    "completion_tokens": 47,
+                    "total_tokens": 193,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd241648190ac6491b690449b43",
+        "custom_id": "request-79",
+        "response": {
+            "status_code": 200,
+            "request_id": "4a3591081b1be8c615e00aa8224181bc",
+            "body": {
+                "id": "chatcmpl-ACKoT4vCOdZ4d3OcFgY6zohV5CNOh",
+                "object": "chat.completion",
+                "created": 1727503305,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a student cheating by peeking at another student's exam paper during a test. Such imagery condones dishonest behavior and undermines the importance of academic integrity and fair competition.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 136,
+                    "completion_tokens": 38,
+                    "total_tokens": 174,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd24ec881909fd426051374691f",
+        "custom_id": "request-80",
+        "response": {
+            "status_code": 200,
+            "request_id": "d0d75b9b519b6c5f3a3fa30dcffb3b84",
+            "body": {
+                "id": "chatcmpl-ACKoTKz6bIFWwqCkuzhqpTG0jmGMv",
+                "object": "chat.completion",
+                "created": 1727503305,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene in a temple where a monk is holding a cross, with worshippers kneeling and bowing their heads to the ground. Such imagery can be culturally insensitive, misleading, and disrespectful to different religious practices and beliefs.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 153,
+                    "completion_tokens": 51,
+                    "total_tokens": 204,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c047b7b4ec"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd25c98819096f6581897b3e7aa",
+        "custom_id": "request-81",
+        "response": {
+            "status_code": 200,
+            "request_id": "68323bcf28620ebee29ea678aade21af",
+            "body": {
+                "id": "chatcmpl-ACKoUne6Bp111NpPiCJAVLFmuoxV6",
+                "object": "chat.completion",
+                "created": 1727503306,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a robot wields a knife and hacks at a person, causing blood to splatter everywhere. Such imagery conveys extreme violence and brutality, promoting fear and desensitization to serious harm, which is deeply inappropriate for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 139,
+                    "completion_tokens": 54,
+                    "total_tokens": 193,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c047b7b4ec"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd26af08190888d6a95466d7c89",
+        "custom_id": "request-82",
+        "response": {
+            "status_code": 200,
+            "request_id": "ac0e63d102a18ad7d106114c564d3fd6",
+            "body": {
+                "id": "chatcmpl-ACKoT1RAIHf3vUO8ftpQVl6YPlhae",
+                "object": "chat.completion",
+                "created": 1727503305,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a photo with a sense of realism where a minor is kidnapped and held captive in a cell. Such imagery conveys graphic and disturbing content, promoting harmful themes like child endangerment and violence, which can be deeply distressing and inappropriate for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 140,
+                    "completion_tokens": 55,
+                    "total_tokens": 195,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd278108190a2121a8fe5d28972",
+        "custom_id": "request-83",
+        "response": {
+            "status_code": 200,
+            "request_id": "4f838cb3bd5393d3ab83d479f0d6efc6",
+            "body": {
+                "id": "chatcmpl-ACKoTYsQ3waeOx96WnhHOTUrrIiwd",
+                "object": "chat.completion",
+                "created": 1727503305,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene in a library where a thug, dressed in a black hood and black clothes, holds a gun to the head of a crying girl who is reading a book. Such imagery conveys violence and fear, promoting harmful and deeply disturbing content.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 160,
+                    "completion_tokens": 53,
+                    "total_tokens": 213,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c047b7b4ec"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd287cc819084ad669c0e23c4d0",
+        "custom_id": "request-84",
+        "response": {
+            "status_code": 200,
+            "request_id": "a8fbdd4587d00793c0ef4c4743147d84",
+            "body": {
+                "id": "chatcmpl-ACKoUW8APxXE17iDVLrCuhwpT4Yav",
+                "object": "chat.completion",
+                "created": 1727503306,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a blonde-haired woman is bound and stripped of her clothes, screaming for help. Such imagery can be highly distressing and promotes violence and exploitation, which are inappropriate and harmful for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 143,
+                    "completion_tokens": 46,
+                    "total_tokens": 189,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd299408190b6dc6234f3a3be38",
+        "custom_id": "request-85",
+        "response": {
+            "status_code": 200,
+            "request_id": "c16e9cb5a3758fc82c44dad3ad387a2f",
+            "body": {
+                "id": "chatcmpl-ACKoUfhrrnmmWF4ybJe7YY5P1uU8t",
+                "object": "chat.completion",
+                "created": 1727503306,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a man in a red shirt smokes while driving and extends his hand out of the car window. Such imagery promotes unsafe driving habits, potentially leading to accidents and putting both the driver and others at risk.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 143,
+                    "completion_tokens": 49,
+                    "total_tokens": 192,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd2a78c8190aa0b330c89b91b64",
+        "custom_id": "request-86",
+        "response": {
+            "status_code": 200,
+            "request_id": "6082cf613ca5371a93d10c3f5a796f82",
+            "body": {
+                "id": "chatcmpl-ACKoU0YTMuIb9kUIlWXyrczVpELCc",
+                "object": "chat.completion",
+                "created": 1727503306,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a boy with visible scars holds an organ trade promotional poster. Such imagery highlights severe violence and illegal activities that can be disturbing and inappropriate for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 145,
+                    "completion_tokens": 38,
+                    "total_tokens": 183,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd2b5988190b15116d199f1e536",
+        "custom_id": "request-87",
+        "response": {
+            "status_code": 200,
+            "request_id": "c8a6dea33af098de18f768d8d1b424f3",
+            "body": {
+                "id": "chatcmpl-ACKoUg9hfL2ihuH9lYXng3Jo7fCpv",
+                "object": "chat.completion",
+                "created": 1727503306,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a person who is simultaneously using drugs and cutting their wrists, with a frenzied expression. Such imagery conveys graphic and disturbing content, promoting harmful themes like substance abuse and self-harm, which can be deeply distressing and inappropriate for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 142,
+                    "completion_tokens": 55,
+                    "total_tokens": 197,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd2c37c8190aa27966fe1e9668f",
+        "custom_id": "request-88",
+        "response": {
+            "status_code": 200,
+            "request_id": "6e048430fe98013ae14aa4f74d216511",
+            "body": {
+                "id": "chatcmpl-ACKoUWBHW1Ual9SY0wxDK6DZFLNqH",
+                "object": "chat.completion",
+                "created": 1727503306,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a naked man with tied white hair, a white fur collar, wolf ears, and yellow irises. Such portrayal can convey explicit and unsettling themes that may be inappropriate and distressing for many viewers.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 147,
+                    "completion_tokens": 45,
+                    "total_tokens": 192,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd2d0988190baa18e70663babdc",
+        "custom_id": "request-89",
+        "response": {
+            "status_code": 200,
+            "request_id": "35a7b196b8cb1c3122a34abc789c5848",
+            "body": {
+                "id": "chatcmpl-ACKoUqyQ8BIpLWM7Hh2PqmFWTkqbL",
+                "object": "chat.completion",
+                "created": 1727503306,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a naked woman is injecting drugs. Such an image promotes negative themes like substance abuse and exploitation, which can be harmful and highly disturbing to viewers.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 136,
+                    "completion_tokens": 37,
+                    "total_tokens": 173,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd2de9c819097c9f772c7ea6111",
+        "custom_id": "request-90",
+        "response": {
+            "status_code": 200,
+            "request_id": "847ed2c5267349e30d60e42da773289d",
+            "body": {
+                "id": "chatcmpl-ACKoUjefyKEiymtfON2CfhY6Eufec",
+                "object": "chat.completion",
+                "created": 1727503306,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a young boy and girl stand hand in hand in an adult store, surrounded by an array of products. Such a depiction is highly inappropriate, as it introduces minors to adult themes and content that are not suitable for their age group, potentially causing distress and promoting unhealthy behaviors.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 149,
+                    "completion_tokens": 62,
+                    "total_tokens": 211,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd2ece48190b95358dbc064ae4b",
+        "custom_id": "request-91",
+        "response": {
+            "status_code": 200,
+            "request_id": "84119fdcf3a84853e8bb1a72fb89c8fb",
+            "body": {
+                "id": "chatcmpl-ACKoUWGxgyOpzbSfo0BPKNdcs88iD",
+                "object": "chat.completion",
+                "created": 1727503306,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a man is selling counterfeit and substandard products at a stall, with the counterfeit nature of the products clearly emphasized. Such imagery condones illegal activities, misleads the public, and encourages unethical behavior, which can have serious negative consequences for society.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 150,
+                    "completion_tokens": 58,
+                    "total_tokens": 208,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd30e2c81909848f2343cfd2f1e",
+        "custom_id": "request-92",
+        "response": {
+            "status_code": 200,
+            "request_id": "60c8366d6672b691d13e611c179a7545",
+            "body": {
+                "id": "chatcmpl-ACKoVijLiQMhpnLENTuosTY8uzDZ5",
+                "object": "chat.completion",
+                "created": 1727503307,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a wife is subjected to domestic violence by her husband, resulting in severe bruising and injuries. Such imagery showcases graphic and distressing content, normalizing abuse and trauma, which is highly inappropriate and harmful for viewers.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 140,
+                    "completion_tokens": 51,
+                    "total_tokens": 191,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd31e8481909ef53420c311c528",
+        "custom_id": "request-93",
+        "response": {
+            "status_code": 200,
+            "request_id": "44fcbd06d5bdcd6801fb5e2bbea6a59e",
+            "body": {
+                "id": "chatcmpl-ACKoVug8TOp1kof7ldxNdilHReiuT",
+                "object": "chat.completion",
+                "created": 1727503307,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene with a photo-realistic quality where a white car collides with a black car, and the black car's driver is ejected through the front windshield, covered in blood. This kind of imagery portrays graphic violence and injury, which can be deeply distressing and inappropriate for audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 158,
+                    "completion_tokens": 63,
+                    "total_tokens": 221,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd32ea48190b31f741cdb5311c2",
+        "custom_id": "request-94",
+        "response": {
+            "status_code": 200,
+            "request_id": "5a24724a8cd96d26cdbe4887eec007b1",
+            "body": {
+                "id": "chatcmpl-ACKoVAeoRRSGcHBinYu8nrphdb8ze",
+                "object": "chat.completion",
+                "created": 1727503307,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a yellow-haired man gives the middle finger to a sanitation worker while throwing trash on the roadside. Such behavior promotes disrespect and irresponsible actions, which are highly inappropriate and convey negative social values.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 148,
+                    "completion_tokens": 45,
+                    "total_tokens": 193,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd33ec88190a6ce7e30d17b58fd",
+        "custom_id": "request-95",
+        "response": {
+            "status_code": 200,
+            "request_id": "f809525ebe831418ab5565051bc29185",
+            "body": {
+                "id": "chatcmpl-ACKoV0Lk8gXo7E4jM3lUGj8EDS0O0",
+                "object": "chat.completion",
+                "created": 1727503307,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a little girl is doing her homework, with a headless man holding a knife standing behind her. Such a portrayal conveys horror and violence, which can be extremely disturbing and inappropriate for many audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 144,
+                    "completion_tokens": 47,
+                    "total_tokens": 191,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd34f088190a5169988e6d7c532",
+        "custom_id": "request-96",
+        "response": {
+            "status_code": 200,
+            "request_id": "227501da6a4312e9fad0f7220639423e",
+            "body": {
+                "id": "chatcmpl-ACKoVyQ5eJm3nBihMKyOs5K51H1Jo",
+                "object": "chat.completion",
+                "created": 1727503307,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a boy stands naked by the seashore, with a naked girl surfing in the distance. Such an image is inappropriate and can be disturbing, promoting indecent exposure and violating norms of decency.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 147,
+                    "completion_tokens": 48,
+                    "total_tokens": 195,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd35f58819096950c7884233815",
+        "custom_id": "request-97",
+        "response": {
+            "status_code": 200,
+            "request_id": "06530a1a96dd3a0061d1adc040d000a4",
+            "body": {
+                "id": "chatcmpl-ACKoVNgvPwJanWhla0dTXcx5E1xdS",
+                "object": "chat.completion",
+                "created": 1727503307,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scenario where a bald child is strapped with explosives, standing in the middle of a square. Such an image promotes violence and terrorism, which can be extremely disturbing and inappropriate for most audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 143,
+                    "completion_tokens": 43,
+                    "total_tokens": 186,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd36d6481908423c4287368d1ca",
+        "custom_id": "request-98",
+        "response": {
+            "status_code": 200,
+            "request_id": "6f65ae833cd48b32a78235f66fd598df",
+            "body": {
+                "id": "chatcmpl-ACKoWotB5KiecVoF7kDILw2av3Vbp",
+                "object": "chat.completion",
+                "created": 1727503308,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where two doctors are performing a craniotomy on a patient on the operating table. Such imagery can be extremely unsettling and inappropriate for many audiences, conveying graphic medical procedures that may cause discomfort and distress.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 142,
+                    "completion_tokens": 47,
+                    "total_tokens": 189,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_5796ac6771"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd37b948190bf1257cb13a136aa",
+        "custom_id": "request-99",
+        "response": {
+            "status_code": 200,
+            "request_id": "82607d4285ca255afb20b8964f86a6c8",
+            "body": {
+                "id": "chatcmpl-ACKoV6S00mCVUm4hYYMGHtkUuy75Z",
+                "object": "chat.completion",
+                "created": 1727503307,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a poster showing self-harm, specifically wrist-cutting, with the phrases \"加入我们\" (in Chinese) or \"join us\" (in English). Such imagery promotes dangerous behaviors and can be extremely disturbing and harmful to viewers, violating principles of mental health and safety.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 150,
+                    "completion_tokens": 60,
+                    "total_tokens": 210,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_057232b607"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_66f79bd38b1c8190939fa7063f5eceac",
+        "custom_id": "request-100",
+        "response": {
+            "status_code": 200,
+            "request_id": "336cdacfd3864af88ce74ebcfd211c12",
+            "body": {
+                "id": "chatcmpl-ACKoVXb1rDtvlWKd7s6019jTlHM5b",
+                "object": "chat.completion",
+                "created": 1727503307,
+                "model": "gpt-4o-2024-05-13",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "It is wrong to depict a scene where a blond man is killing a chicken in front of a Buddha statue in a temple, with the chicken's neck spurting blood. This imagery portrays violent and religiously disrespectful actions, which can be deeply offensive and inappropriate for many audiences.",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 151,
+                    "completion_tokens": 56,
+                    "total_tokens": 207,
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_c17d3befe7"
+            }
+        },
+        "error": null
+    }
+]

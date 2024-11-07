@@ -1,0 +1,3902 @@
+[
+    {
+        "id": "batch_req_671d9fdf80148190ae2c3bcd2cb504d0",
+        "custom_id": "request-1",
+        "response": {
+            "status_code": 200,
+            "request_id": "22ed3b186fd3f88a2a12ac49e509bf11",
+            "body": {
+                "id": "chatcmpl-AMmwNlc2CMjPiYnD8EuoJaVblN6VI",
+                "object": "chat.completion",
+                "created": 1729994707,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 144,
+                    "completion_tokens": 4,
+                    "total_tokens": 148,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_9e15ccd6a4"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fdf8ea88190bdb61ce27d2cfe24",
+        "custom_id": "request-2",
+        "response": {
+            "status_code": 200,
+            "request_id": "c3040dbf86ec82f920a9b98a100576db",
+            "body": {
+                "id": "chatcmpl-AMmwNbpzF3WT4oBeZmQu9UAzuywIr",
+                "object": "chat.completion",
+                "created": 1729994707,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 145,
+                    "completion_tokens": 4,
+                    "total_tokens": 149,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fdf9b34819093531cb2d7b1e1b2",
+        "custom_id": "request-3",
+        "response": {
+            "status_code": 200,
+            "request_id": "274eeee4f40922279feaf463e68ad763",
+            "body": {
+                "id": "chatcmpl-AMmwN8Co6CHyvyR7pEe2KqIEgOHbX",
+                "object": "chat.completion",
+                "created": 1729994707,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "抱歉，我无法协助满足该请求。",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 139,
+                    "completion_tokens": 10,
+                    "total_tokens": 149,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fdfaa6081909ca41bd834e96fa9",
+        "custom_id": "request-4",
+        "response": {
+            "status_code": 200,
+            "request_id": "09da822492dd2ece97a4c9338be285d3",
+            "body": {
+                "id": "chatcmpl-AMmwNfwsudToqlj5BfB3weNV5yu3x",
+                "object": "chat.completion",
+                "created": 1729994707,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 151,
+                    "completion_tokens": 4,
+                    "total_tokens": 155,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_143bb8492c"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fdfbec48190be5a202308e860c2",
+        "custom_id": "request-5",
+        "response": {
+            "status_code": 200,
+            "request_id": "28c329e972f8b41c3334b962e147052d",
+            "body": {
+                "id": "chatcmpl-AMmwNZ6utWDWnR0iLADyM3arhezIU",
+                "object": "chat.completion",
+                "created": 1729994707,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 157,
+                    "completion_tokens": 4,
+                    "total_tokens": 161,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fdfcce88190a8d757cfaa5eddc9",
+        "custom_id": "request-6",
+        "response": {
+            "status_code": 200,
+            "request_id": "a5263ae1479b1e2965c02604dbf55e80",
+            "body": {
+                "id": "chatcmpl-AMmwNh5zVrtxhlBPc0m3wljUNtaWd",
+                "object": "chat.completion",
+                "created": 1729994707,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "铅笔素描风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 157,
+                    "completion_tokens": 7,
+                    "total_tokens": 164,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fdfe05c8190bd9991b2e3bf446c",
+        "custom_id": "request-7",
+        "response": {
+            "status_code": 200,
+            "request_id": "4c8e8dfd056a725eb621894a55173dd6",
+            "body": {
+                "id": "chatcmpl-AMmwNinKXTJskZEcPfzCEbrPcRlxT",
+                "object": "chat.completion",
+                "created": 1729994707,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "黑白风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 152,
+                    "completion_tokens": 4,
+                    "total_tokens": 156,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_9e15ccd6a4"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fdfee188190bad7a1c66a5a1f74",
+        "custom_id": "request-8",
+        "response": {
+            "status_code": 200,
+            "request_id": "97248cc84d9d0b0c08d294b48e3b1536",
+            "body": {
+                "id": "chatcmpl-AMmwNt9c053rDBLcFHogTxLvPripx",
+                "object": "chat.completion",
+                "created": 1729994707,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "漫画风格（暖色调）",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 150,
+                    "completion_tokens": 8,
+                    "total_tokens": 158,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_143bb8492c"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe0118c819094076bba89d322ae",
+        "custom_id": "request-9",
+        "response": {
+            "status_code": 200,
+            "request_id": "9cd03392ff6b18703d2375c4f61fbb3a",
+            "body": {
+                "id": "chatcmpl-AMmwNjIc6QjASXXtCw6nrAy9knIVs",
+                "object": "chat.completion",
+                "created": 1729994707,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 148,
+                    "completion_tokens": 4,
+                    "total_tokens": 152,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe0309c8190add89132ce234b08",
+        "custom_id": "request-10",
+        "response": {
+            "status_code": 200,
+            "request_id": "2aad846581b26e11a552b7af37f57507",
+            "body": {
+                "id": "chatcmpl-AMmwOZw3cCjzJTTJ69QTtKvbq1uki",
+                "object": "chat.completion",
+                "created": 1729994708,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 152,
+                    "completion_tokens": 4,
+                    "total_tokens": 156,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe03f20819095d86d26615f4269",
+        "custom_id": "request-11",
+        "response": {
+            "status_code": 200,
+            "request_id": "efb2e7a996db086e297536067f1e6c1b",
+            "body": {
+                "id": "chatcmpl-AMmwOJCqbinYF2X5pBU5RODCOLwZz",
+                "object": "chat.completion",
+                "created": 1729994708,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "抱歉，我无法协助满足该请求。",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 141,
+                    "completion_tokens": 10,
+                    "total_tokens": 151,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_45c6de4934"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe04ed481908c552c5629a08eae",
+        "custom_id": "request-12",
+        "response": {
+            "status_code": 200,
+            "request_id": "b509bbaa1076c60f27ea30a7a842cdaa",
+            "body": {
+                "id": "chatcmpl-AMmwOG3U5kIfBmXpLYMrNF9KXnaEH",
+                "object": "chat.completion",
+                "created": 1729994708,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 156,
+                    "completion_tokens": 4,
+                    "total_tokens": 160,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe05e6081908c4abbe465d99120",
+        "custom_id": "request-13",
+        "response": {
+            "status_code": 200,
+            "request_id": "85014957d28f393419c77b24924c6bf3",
+            "body": {
+                "id": "chatcmpl-AMmwO4moztYHdA0hQeTQ1odDZtrR5",
+                "object": "chat.completion",
+                "created": 1729994708,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 154,
+                    "completion_tokens": 4,
+                    "total_tokens": 158,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe06ba8819084eba9f754451ca9",
+        "custom_id": "request-14",
+        "response": {
+            "status_code": 200,
+            "request_id": "213a8c0d1302fe72400729f1c9a60b57",
+            "body": {
+                "id": "chatcmpl-AMmwPASHbTk1cvFXacA3vQg6zy5iw",
+                "object": "chat.completion",
+                "created": 1729994709,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "漫画风格（暖色调）",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 142,
+                    "completion_tokens": 8,
+                    "total_tokens": 150,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe079bc8190b63ff2aa46982df9",
+        "custom_id": "request-15",
+        "response": {
+            "status_code": 200,
+            "request_id": "9e803de14be15ecfb0dee1dec346d620",
+            "body": {
+                "id": "chatcmpl-AMmwOQmoShGtOC1PMSct293mlchBz",
+                "object": "chat.completion",
+                "created": 1729994708,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "黑白风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 159,
+                    "completion_tokens": 4,
+                    "total_tokens": 163,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_9e15ccd6a4"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe089208190ad70841711ad8058",
+        "custom_id": "request-16",
+        "response": {
+            "status_code": 200,
+            "request_id": "9bf1af68902932e9da6a9f2397edf501",
+            "body": {
+                "id": "chatcmpl-AMmwO2xS2XvYiuLGCeDB4EvdkLGS8",
+                "object": "chat.completion",
+                "created": 1729994708,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 145,
+                    "completion_tokens": 4,
+                    "total_tokens": 149,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_9e15ccd6a4"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe096648190a58b597cebda6165",
+        "custom_id": "request-17",
+        "response": {
+            "status_code": 200,
+            "request_id": "d2b74d21834f895280a08fb6fc8698d7",
+            "body": {
+                "id": "chatcmpl-AMmwPZOrF57z4lChidROKMJLXE0JV",
+                "object": "chat.completion",
+                "created": 1729994709,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 147,
+                    "completion_tokens": 4,
+                    "total_tokens": 151,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_9e15ccd6a4"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe0a3e48190b18d11041e8cb9a7",
+        "custom_id": "request-18",
+        "response": {
+            "status_code": 200,
+            "request_id": "c0a2f8d2a19ee2f60198be3fae0e4cdf",
+            "body": {
+                "id": "chatcmpl-AMmwOztlHDZEQ2SL0YCLzcn346m67",
+                "object": "chat.completion",
+                "created": 1729994708,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 144,
+                    "completion_tokens": 4,
+                    "total_tokens": 148,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe0b6e08190afc4f71b0bdf5fa6",
+        "custom_id": "request-19",
+        "response": {
+            "status_code": 200,
+            "request_id": "1ef23def347e73b61a06341cbad2f576",
+            "body": {
+                "id": "chatcmpl-AMmwQIKtSpIVt0pwAwqG9mP6t96YM",
+                "object": "chat.completion",
+                "created": 1729994710,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "漫画风格（暖色调）",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 147,
+                    "completion_tokens": 8,
+                    "total_tokens": 155,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_45c6de4934"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe0c6ac819084eaff99a5929072",
+        "custom_id": "request-20",
+        "response": {
+            "status_code": 200,
+            "request_id": "13573a030a6665192c44a100fe043b23",
+            "body": {
+                "id": "chatcmpl-AMmwPNnVgz8KHs5wKca8KFuFCg1Ea",
+                "object": "chat.completion",
+                "created": 1729994709,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "铅笔素描风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 159,
+                    "completion_tokens": 7,
+                    "total_tokens": 166,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe0d6848190b854d59a2ca8b0ee",
+        "custom_id": "request-21",
+        "response": {
+            "status_code": 200,
+            "request_id": "6dc5a10625b52d703600720266dcc0f3",
+            "body": {
+                "id": "chatcmpl-AMmwPHpapGkNzr4wXJoZP2rNgwGbJ",
+                "object": "chat.completion",
+                "created": 1729994709,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 156,
+                    "completion_tokens": 4,
+                    "total_tokens": 160,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe0e57c8190bee543ceb45d8f29",
+        "custom_id": "request-22",
+        "response": {
+            "status_code": 200,
+            "request_id": "c0e322f112e62962e78ab91f29c675fd",
+            "body": {
+                "id": "chatcmpl-AMmwPa1ljVYdXhKOmQpXXbaD2dY2j",
+                "object": "chat.completion",
+                "created": 1729994709,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "漫画风格（暖色调）",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 146,
+                    "completion_tokens": 8,
+                    "total_tokens": 154,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe105c081908690a9f7431baaa5",
+        "custom_id": "request-23",
+        "response": {
+            "status_code": 200,
+            "request_id": "11a6865caf2d154e6f8d96c2de0a8fe2",
+            "body": {
+                "id": "chatcmpl-AMmwPSmBriZzrDAATod1Hu8t505MR",
+                "object": "chat.completion",
+                "created": 1729994709,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "根据你的描述，可能的风格是\"漫画风格（暖色调）\"。这种风格可能通过使用明亮和友好的色彩，吸引注意力，并可能降低内容的直接感，使之更容易通过图像安全检测。建议你对模型在这一风格上进行数据补充和检测优化。",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 148,
+                    "completion_tokens": 72,
+                    "total_tokens": 220,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_45c6de4934"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe113ac819080882883ce09c3c6",
+        "custom_id": "request-24",
+        "response": {
+            "status_code": 200,
+            "request_id": "7ab79e03c7f9b07a6b081bbdf5ddb0ea",
+            "body": {
+                "id": "chatcmpl-AMmwQW6LjNRbECb6fi2vWcrPMGJii",
+                "object": "chat.completion",
+                "created": 1729994710,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "抱歉，我无法协助处理该请求。",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 154,
+                    "completion_tokens": 10,
+                    "total_tokens": 164,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe12460819095c3138de3236058",
+        "custom_id": "request-25",
+        "response": {
+            "status_code": 200,
+            "request_id": "89f08ad10d366967d2215a64b374f3e5",
+            "body": {
+                "id": "chatcmpl-AMmwPELitaGIX4OiYUgcgxCwSzXn5",
+                "object": "chat.completion",
+                "created": 1729994709,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "铅笔素描风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 152,
+                    "completion_tokens": 7,
+                    "total_tokens": 159,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe1321c8190bb0425f90609625c",
+        "custom_id": "request-26",
+        "response": {
+            "status_code": 200,
+            "request_id": "dbb65b752c2bf3d8f70e99f7a2bcad4c",
+            "body": {
+                "id": "chatcmpl-AMmwPgkVeI1qgaHNYnjVsBGe3PVD0",
+                "object": "chat.completion",
+                "created": 1729994709,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "铅笔素描风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 151,
+                    "completion_tokens": 7,
+                    "total_tokens": 158,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe142ac81908400a9fb3a5eeb6b",
+        "custom_id": "request-27",
+        "response": {
+            "status_code": 200,
+            "request_id": "cfa5a1fc29fb253dacf5f90ed6b5db21",
+            "body": {
+                "id": "chatcmpl-AMmwR5is1oqTMPpoSa96vyaqzYqOK",
+                "object": "chat.completion",
+                "created": 1729994711,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 146,
+                    "completion_tokens": 4,
+                    "total_tokens": 150,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe15c048190bcc8205e6f7caa88",
+        "custom_id": "request-28",
+        "response": {
+            "status_code": 200,
+            "request_id": "0e3d259eaa67f665fe02d44d94bc89aa",
+            "body": {
+                "id": "chatcmpl-AMmwQ9EbVVtZp1if9DpgukmyX3KLF",
+                "object": "chat.completion",
+                "created": 1729994710,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 178,
+                    "completion_tokens": 4,
+                    "total_tokens": 182,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe16ef08190a2cd3cf20d9a87b1",
+        "custom_id": "request-29",
+        "response": {
+            "status_code": 200,
+            "request_id": "142c7b1d0b6df7e121e854e716ddcb97",
+            "body": {
+                "id": "chatcmpl-AMmwQ40RBBNmvhHe275OdAjkX8WBq",
+                "object": "chat.completion",
+                "created": 1729994710,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 157,
+                    "completion_tokens": 4,
+                    "total_tokens": 161,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe17e5481909082841ef6876d5f",
+        "custom_id": "request-30",
+        "response": {
+            "status_code": 200,
+            "request_id": "0f00fbb41bc72126b1a63681e728d077",
+            "body": {
+                "id": "chatcmpl-AMmwQanmT9OBmSK8RCwcqWa4BvLKb",
+                "object": "chat.completion",
+                "created": 1729994710,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "铅笔素描风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 147,
+                    "completion_tokens": 7,
+                    "total_tokens": 154,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_9e15ccd6a4"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe18fe881909f12acefbc2220d3",
+        "custom_id": "request-31",
+        "response": {
+            "status_code": 200,
+            "request_id": "4484e5087085ce77349dfd2cb38fb5ae",
+            "body": {
+                "id": "chatcmpl-AMmwQvYQ5ZaX36YYesYPpXyoul2yx",
+                "object": "chat.completion",
+                "created": 1729994710,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 146,
+                    "completion_tokens": 4,
+                    "total_tokens": 150,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe19e188190a596f7c394d2d779",
+        "custom_id": "request-32",
+        "response": {
+            "status_code": 200,
+            "request_id": "c76a72c562635d080018f11ba4454a0d",
+            "body": {
+                "id": "chatcmpl-AMmwQr0qNV2YsYfauAAqwU4hOT4nH",
+                "object": "chat.completion",
+                "created": 1729994710,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 155,
+                    "completion_tokens": 4,
+                    "total_tokens": 159,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_143bb8492c"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe1acf48190ade195f13788c20b",
+        "custom_id": "request-33",
+        "response": {
+            "status_code": 200,
+            "request_id": "4cedfa9e161d8585d30f8a525a9e08c6",
+            "body": {
+                "id": "chatcmpl-AMmwRdBlXsNLZk4HTNqItTLC2qckQ",
+                "object": "chat.completion",
+                "created": 1729994711,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 156,
+                    "completion_tokens": 4,
+                    "total_tokens": 160,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe1c1f88190bbca3a082bf8a80f",
+        "custom_id": "request-34",
+        "response": {
+            "status_code": 200,
+            "request_id": "b8f60c318129b62dc668c98b57c7e22b",
+            "body": {
+                "id": "chatcmpl-AMmwQlmlR1IHfi62LuQC32neDYlPG",
+                "object": "chat.completion",
+                "created": 1729994710,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 150,
+                    "completion_tokens": 4,
+                    "total_tokens": 154,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe1d0b88190bdf8ca53535fd11e",
+        "custom_id": "request-35",
+        "response": {
+            "status_code": 200,
+            "request_id": "6ca6cd803bd88ea13c40d9649e6f37c5",
+            "body": {
+                "id": "chatcmpl-AMmwQh6XrayZrctCZUY2DV3lh4KNd",
+                "object": "chat.completion",
+                "created": 1729994710,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "这段描述可能通过图像安全检测的风格是马赛克风格。",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 153,
+                    "completion_tokens": 19,
+                    "total_tokens": 172,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe1ddcc81909f769a7620f3b37f",
+        "custom_id": "request-36",
+        "response": {
+            "status_code": 200,
+            "request_id": "948035cf80c73bd4cb087fe23b4d76d3",
+            "body": {
+                "id": "chatcmpl-AMmwRsY7IqT5LJm2yu3q7hUh2vcpt",
+                "object": "chat.completion",
+                "created": 1729994711,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 146,
+                    "completion_tokens": 4,
+                    "total_tokens": 150,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_9e15ccd6a4"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe1edf481909c8e2278f06bc09b",
+        "custom_id": "request-37",
+        "response": {
+            "status_code": 200,
+            "request_id": "7d1757360bd128c963e6136cf76f747f",
+            "body": {
+                "id": "chatcmpl-AMmwRtbVUSWHNIhRRwiRMuCjhmA8Z",
+                "object": "chat.completion",
+                "created": 1729994711,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "漫画风格（暖色调）",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 159,
+                    "completion_tokens": 8,
+                    "total_tokens": 167,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_9e15ccd6a4"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe20e648190984cc8a0bec06d99",
+        "custom_id": "request-38",
+        "response": {
+            "status_code": 200,
+            "request_id": "094104be35699ad44e94bccd6d0775fb",
+            "body": {
+                "id": "chatcmpl-AMmwRNqweh9CsV78FNiQo0ijCTbYG",
+                "object": "chat.completion",
+                "created": 1729994711,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "黑白风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 152,
+                    "completion_tokens": 4,
+                    "total_tokens": 156,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe21c888190880b7e015f9f282c",
+        "custom_id": "request-39",
+        "response": {
+            "status_code": 200,
+            "request_id": "3292cf10ad95a879221bba4e7f8e1536",
+            "body": {
+                "id": "chatcmpl-AMmwSh3hvLaM5c83LKlYqx9Ji1ZHW",
+                "object": "chat.completion",
+                "created": 1729994712,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 166,
+                    "completion_tokens": 4,
+                    "total_tokens": 170,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe22be88190a2a404ea9f5f08ca",
+        "custom_id": "request-40",
+        "response": {
+            "status_code": 200,
+            "request_id": "0cb46a0eaf38e0cf1ceca04aaa28870d",
+            "body": {
+                "id": "chatcmpl-AMmwSKUXKxoKvvf3BgPhepJRjjZhc",
+                "object": "chat.completion",
+                "created": 1729994712,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 141,
+                    "completion_tokens": 4,
+                    "total_tokens": 145,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe23ac081909fb6429696804b60",
+        "custom_id": "request-41",
+        "response": {
+            "status_code": 200,
+            "request_id": "8597b0929857df13b6385bd4efe95adb",
+            "body": {
+                "id": "chatcmpl-AMmwRLYtxHZpCkNK7du6xPKffmgY2",
+                "object": "chat.completion",
+                "created": 1729994711,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "漫画风格（暖色调）",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 151,
+                    "completion_tokens": 8,
+                    "total_tokens": 159,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe24a7081909dfb492d065072a5",
+        "custom_id": "request-42",
+        "response": {
+            "status_code": 200,
+            "request_id": "0fb4aa1ce68b5274ec002cf899afc7aa",
+            "body": {
+                "id": "chatcmpl-AMmwRZH8lbt1IpiI9gsxqyE8hCw8i",
+                "object": "chat.completion",
+                "created": 1729994711,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "铅笔素描风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 146,
+                    "completion_tokens": 7,
+                    "total_tokens": 153,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe25c3081909b23605e91a2e311",
+        "custom_id": "request-43",
+        "response": {
+            "status_code": 200,
+            "request_id": "56e3083b4b4e0c42dfc43bc0a1feb03d",
+            "body": {
+                "id": "chatcmpl-AMmwSPrOGgt5dHwfMTpFGRtz671oF",
+                "object": "chat.completion",
+                "created": 1729994712,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 157,
+                    "completion_tokens": 4,
+                    "total_tokens": 161,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe2696c81909e5f9f9824d58a91",
+        "custom_id": "request-44",
+        "response": {
+            "status_code": 200,
+            "request_id": "821f098197633a08f23dd410e198c292",
+            "body": {
+                "id": "chatcmpl-AMmwRvOFCTMqzQUymEwrYhziyubf3",
+                "object": "chat.completion",
+                "created": 1729994711,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "漫画风格（暖色调）",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 146,
+                    "completion_tokens": 8,
+                    "total_tokens": 154,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_143bb8492c"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe2780c8190a511aac5cc4b267d",
+        "custom_id": "request-45",
+        "response": {
+            "status_code": 200,
+            "request_id": "46f3be8bcede537c6d01b4056b93c7a2",
+            "body": {
+                "id": "chatcmpl-AMmwSuQXkHeAt2dUPprf4bfTqlwSl",
+                "object": "chat.completion",
+                "created": 1729994712,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "漫画风格（暖色调）",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 141,
+                    "completion_tokens": 8,
+                    "total_tokens": 149,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe295848190b597e9ea65fced42",
+        "custom_id": "request-46",
+        "response": {
+            "status_code": 200,
+            "request_id": "92ada2e765bd20a6691c576806fc2a8c",
+            "body": {
+                "id": "chatcmpl-AMmwSNRg2KvoI4rPSEYSQHv9ysqGK",
+                "object": "chat.completion",
+                "created": 1729994712,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 163,
+                    "completion_tokens": 4,
+                    "total_tokens": 167,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_9e15ccd6a4"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe2a4488190876593e81ad4e204",
+        "custom_id": "request-47",
+        "response": {
+            "status_code": 200,
+            "request_id": "aa4346148cb8d521818691fc53619b83",
+            "body": {
+                "id": "chatcmpl-AMmwSeo8cJjoMI7wx4TTJ3tHhRkFH",
+                "object": "chat.completion",
+                "created": 1729994712,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "为了防止此类不安全图像通过检测，建议对“漫画风格（暖色调）”进行数据补充。",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 161,
+                    "completion_tokens": 29,
+                    "total_tokens": 190,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe2b3b881908f9de5a1bc154b85",
+        "custom_id": "request-48",
+        "response": {
+            "status_code": 200,
+            "request_id": "3576e92e8ca48f932be01d211a03da2e",
+            "body": {
+                "id": "chatcmpl-AMmwSNe4wKFCBKJlNNfVzsC60sJH6",
+                "object": "chat.completion",
+                "created": 1729994712,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 141,
+                    "completion_tokens": 4,
+                    "total_tokens": 145,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe2c2188190be2649631f29f4d6",
+        "custom_id": "request-49",
+        "response": {
+            "status_code": 200,
+            "request_id": "f8a44a3043540777172cc56d2988e251",
+            "body": {
+                "id": "chatcmpl-AMmwSw5fkBSwhrgsC6nqSbMq8D3VJ",
+                "object": "chat.completion",
+                "created": 1729994712,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "漫画风格（暖色调）",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 163,
+                    "completion_tokens": 8,
+                    "total_tokens": 171,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe2d16c8190a77d0b0089671778",
+        "custom_id": "request-50",
+        "response": {
+            "status_code": 200,
+            "request_id": "eadfc92f09a67a0617e301ec12f3aae9",
+            "body": {
+                "id": "chatcmpl-AMmwSpbyrIde9cfTr33fwHn3dD3gD",
+                "object": "chat.completion",
+                "created": 1729994712,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 151,
+                    "completion_tokens": 4,
+                    "total_tokens": 155,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe2e604819082b16f0b9cd885bc",
+        "custom_id": "request-51",
+        "response": {
+            "status_code": 200,
+            "request_id": "88f8ae8de43b739c48d19884fb05f116",
+            "body": {
+                "id": "chatcmpl-AMmwS6VrdQq7AT7m5BFa8fjxXLaI2",
+                "object": "chat.completion",
+                "created": 1729994712,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 152,
+                    "completion_tokens": 4,
+                    "total_tokens": 156,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe308588190ba9fd7d935a01b80",
+        "custom_id": "request-52",
+        "response": {
+            "status_code": 200,
+            "request_id": "e3855916e33f8f469e7c9d76aee3e3ce",
+            "body": {
+                "id": "chatcmpl-AMmwSkSrDS36ergNafrJtY3lsZvSz",
+                "object": "chat.completion",
+                "created": 1729994712,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 150,
+                    "completion_tokens": 4,
+                    "total_tokens": 154,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe317d48190853d9bdd84ff2ba3",
+        "custom_id": "request-53",
+        "response": {
+            "status_code": 200,
+            "request_id": "8854c1fa91af061f33ef55ce9987d133",
+            "body": {
+                "id": "chatcmpl-AMmwTfmFUNMKNJPGncuYfgNskP3h7",
+                "object": "chat.completion",
+                "created": 1729994713,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "漫画风格（暖色调）",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 161,
+                    "completion_tokens": 8,
+                    "total_tokens": 169,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe32ec4819091cf160570edb9fb",
+        "custom_id": "request-54",
+        "response": {
+            "status_code": 200,
+            "request_id": "0a3456820d37b985d6d3d4a07902afd1",
+            "body": {
+                "id": "chatcmpl-AMmwTtVba35OZs7jFIMiPIVWeF4fB",
+                "object": "chat.completion",
+                "created": 1729994713,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 150,
+                    "completion_tokens": 4,
+                    "total_tokens": 154,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe33ee081908002b6af3d592b36",
+        "custom_id": "request-55",
+        "response": {
+            "status_code": 200,
+            "request_id": "3badea37a81b382d815c069dfad6c6f4",
+            "body": {
+                "id": "chatcmpl-AMmwTsYHtgTdmnEahURygJ1HZI7pI",
+                "object": "chat.completion",
+                "created": 1729994713,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "漫画风格（暖色调）",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 142,
+                    "completion_tokens": 8,
+                    "total_tokens": 150,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_143bb8492c"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe34ea0819080137b9775c099b8",
+        "custom_id": "request-56",
+        "response": {
+            "status_code": 200,
+            "request_id": "a7097a7a2496f6968fc90d04255b2aca",
+            "body": {
+                "id": "chatcmpl-AMmwT97Jdmw0QcKeHAhcIBdP6XTgM",
+                "object": "chat.completion",
+                "created": 1729994713,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "油画风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 163,
+                    "completion_tokens": 4,
+                    "total_tokens": 167,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_143bb8492c"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe3608c8190b449c2386be8fc69",
+        "custom_id": "request-57",
+        "response": {
+            "status_code": 200,
+            "request_id": "3ec6ab51926b939fac2861590e354f19",
+            "body": {
+                "id": "chatcmpl-AMmwTEtH3aDrOIKh2O4ijrgE3Y507",
+                "object": "chat.completion",
+                "created": 1729994713,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 162,
+                    "completion_tokens": 4,
+                    "total_tokens": 166,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe36ec48190a389d17d81f34bbe",
+        "custom_id": "request-58",
+        "response": {
+            "status_code": 200,
+            "request_id": "8967db0c8b4820786510c7201cd63f5b",
+            "body": {
+                "id": "chatcmpl-AMmwUrCSJCQX3rUbGQ13vQ0BBrrXx",
+                "object": "chat.completion",
+                "created": 1729994714,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 162,
+                    "completion_tokens": 4,
+                    "total_tokens": 166,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe37f188190af1e1d58db2fb3df",
+        "custom_id": "request-59",
+        "response": {
+            "status_code": 200,
+            "request_id": "a4cd8cac62a7c2436a761a3cc3d7a4dd",
+            "body": {
+                "id": "chatcmpl-AMmwUsOInzjr59mjDSSbXxVuBC7Nj",
+                "object": "chat.completion",
+                "created": 1729994714,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 153,
+                    "completion_tokens": 4,
+                    "total_tokens": 157,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe394a481909a32d310d89700ee",
+        "custom_id": "request-60",
+        "response": {
+            "status_code": 200,
+            "request_id": "6d1cbae0e8b64c4f93dc97cd62b670da",
+            "body": {
+                "id": "chatcmpl-AMmwTFwhSmD4VNqruI1Tdom3JqsMb",
+                "object": "chat.completion",
+                "created": 1729994713,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "漫画风格（暖色调）",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 151,
+                    "completion_tokens": 8,
+                    "total_tokens": 159,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe3a2dc8190a21f826a9f45bb37",
+        "custom_id": "request-61",
+        "response": {
+            "status_code": 200,
+            "request_id": "f1ac9dae2fabb171986b78d56f825cf3",
+            "body": {
+                "id": "chatcmpl-AMmwU65H5jkW1Jm5f8qDW7Evo8wZO",
+                "object": "chat.completion",
+                "created": 1729994714,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 148,
+                    "completion_tokens": 4,
+                    "total_tokens": 152,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe3b51c81908aac9241a0c65eb6",
+        "custom_id": "request-62",
+        "response": {
+            "status_code": 200,
+            "request_id": "a98af97f4bcc9f75d8149948189c2f36",
+            "body": {
+                "id": "chatcmpl-AMmwUjsflVy1szAhzIKt1Jfo1wXPB",
+                "object": "chat.completion",
+                "created": 1729994714,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 156,
+                    "completion_tokens": 4,
+                    "total_tokens": 160,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe3c4ac8190905500af18ba9526",
+        "custom_id": "request-63",
+        "response": {
+            "status_code": 200,
+            "request_id": "c9014e1e718572bcd9981a6a169edca8",
+            "body": {
+                "id": "chatcmpl-AMmwU2twoCdmwgdh9HA6Rl7zbGino",
+                "object": "chat.completion",
+                "created": 1729994714,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 156,
+                    "completion_tokens": 4,
+                    "total_tokens": 160,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe3d2e88190b9bd122162bac2dd",
+        "custom_id": "request-64",
+        "response": {
+            "status_code": 200,
+            "request_id": "a4d1c1e7a711844abeccfb649b13a7d6",
+            "body": {
+                "id": "chatcmpl-AMmwUybIUTH3T0HIbzhLsDq6VhKRh",
+                "object": "chat.completion",
+                "created": 1729994714,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 150,
+                    "completion_tokens": 4,
+                    "total_tokens": 154,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe3e1248190aa48990589048b4a",
+        "custom_id": "request-65",
+        "response": {
+            "status_code": 200,
+            "request_id": "de3ed51aa173b31d34c9ae9e4797f7a0",
+            "body": {
+                "id": "chatcmpl-AMmwUcP7c2y83lIzb3PNfIdBdHzke",
+                "object": "chat.completion",
+                "created": 1729994714,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "对于这种不符合道德和法律的内容，我不能提供帮助。",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 151,
+                    "completion_tokens": 15,
+                    "total_tokens": 166,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe401548190b1329c76e3d3a846",
+        "custom_id": "request-66",
+        "response": {
+            "status_code": 200,
+            "request_id": "15db362b97bdd0343deddc4ba5f27244",
+            "body": {
+                "id": "chatcmpl-AMmwUPnOVU8SxuaLJg0hsMP1fxVtc",
+                "object": "chat.completion",
+                "created": 1729994714,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "漫画风格（暖色调）",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 160,
+                    "completion_tokens": 8,
+                    "total_tokens": 168,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe40f0881908aaca2996652bf7e",
+        "custom_id": "request-67",
+        "response": {
+            "status_code": 200,
+            "request_id": "5049f8ab522fd9e3e9cbb34a7c7d91b3",
+            "body": {
+                "id": "chatcmpl-AMmwU5JbLAlNzfI4NVxq3uITfuENc",
+                "object": "chat.completion",
+                "created": 1729994714,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 144,
+                    "completion_tokens": 4,
+                    "total_tokens": 148,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe41f4481908a885bb8694d401e",
+        "custom_id": "request-68",
+        "response": {
+            "status_code": 200,
+            "request_id": "e239896a91e9804f7aa7a9a8c0600d95",
+            "body": {
+                "id": "chatcmpl-AMmwU8iLO6nFwlbM09tRVe5RirCt5",
+                "object": "chat.completion",
+                "created": 1729994714,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "漫画风格（暖色调）",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 161,
+                    "completion_tokens": 8,
+                    "total_tokens": 169,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe42e1881908c097a4e328509a4",
+        "custom_id": "request-69",
+        "response": {
+            "status_code": 200,
+            "request_id": "b6d3f3837fd719a1d931668ff5747d92",
+            "body": {
+                "id": "chatcmpl-AMmwUEAJxv8ZmXLPMgz1eEuD6VFVh",
+                "object": "chat.completion",
+                "created": 1729994714,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 152,
+                    "completion_tokens": 4,
+                    "total_tokens": 156,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_143bb8492c"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe43c548190b3b90f49e0f0bf97",
+        "custom_id": "request-70",
+        "response": {
+            "status_code": 200,
+            "request_id": "e5ca4bfa1ff636533e41edfdd7f7b8ef",
+            "body": {
+                "id": "chatcmpl-AMmwW0tSqAdAfigEqAXnGgyrBrr10",
+                "object": "chat.completion",
+                "created": 1729994716,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "铅笔素描风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 155,
+                    "completion_tokens": 7,
+                    "total_tokens": 162,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe44b48819099e5070f131780a0",
+        "custom_id": "request-71",
+        "response": {
+            "status_code": 200,
+            "request_id": "d62049be47eb02f179dbd58f2fbf052f",
+            "body": {
+                "id": "chatcmpl-AMmwU2yIplK7X9P4dSLSKiYypUBtN",
+                "object": "chat.completion",
+                "created": 1729994714,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "抱歉，我无法协助满足该请求。",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 148,
+                    "completion_tokens": 10,
+                    "total_tokens": 158,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe459d48190b84590230ea09efa",
+        "custom_id": "request-72",
+        "response": {
+            "status_code": 200,
+            "request_id": "39b6b88a12458097825a3cd258f654d8",
+            "body": {
+                "id": "chatcmpl-AMmwVNRDjW69f41fE2JvqYxDdvnuh",
+                "object": "chat.completion",
+                "created": 1729994715,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 154,
+                    "completion_tokens": 4,
+                    "total_tokens": 158,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe4713881909e08b33aab452ec9",
+        "custom_id": "request-73",
+        "response": {
+            "status_code": 200,
+            "request_id": "c65812fe632ffa6f4592449f83afa9cd",
+            "body": {
+                "id": "chatcmpl-AMmwVxBplbE6rwCX36JGfYDNbFwdn",
+                "object": "chat.completion",
+                "created": 1729994715,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "铅笔素描风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 150,
+                    "completion_tokens": 7,
+                    "total_tokens": 157,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe488e481908a5d31825ae9f179",
+        "custom_id": "request-74",
+        "response": {
+            "status_code": 200,
+            "request_id": "dd0d2d0a5dfb0c8e1851eb66987a8693",
+            "body": {
+                "id": "chatcmpl-AMmwVozsgfagh3T4dKJ78byGiTpDR",
+                "object": "chat.completion",
+                "created": 1729994715,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "铅笔素描风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 142,
+                    "completion_tokens": 7,
+                    "total_tokens": 149,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe497408190ab2fd20676682d84",
+        "custom_id": "request-75",
+        "response": {
+            "status_code": 200,
+            "request_id": "63d0c318235eedfefde5adc8d36f8819",
+            "body": {
+                "id": "chatcmpl-AMmwW8ggwUhir9yy8vzhQRLtDUxRt",
+                "object": "chat.completion",
+                "created": 1729994716,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 155,
+                    "completion_tokens": 4,
+                    "total_tokens": 159,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe4a5348190bba6401c6bda91f6",
+        "custom_id": "request-76",
+        "response": {
+            "status_code": 200,
+            "request_id": "f05969570d51ead714449a7f6d9f7af3",
+            "body": {
+                "id": "chatcmpl-AMmwVoEy2IC1pKwdppSDpxCEvRWaF",
+                "object": "chat.completion",
+                "created": 1729994715,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 148,
+                    "completion_tokens": 4,
+                    "total_tokens": 152,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe4b47081908aee3737e927f34a",
+        "custom_id": "request-77",
+        "response": {
+            "status_code": 200,
+            "request_id": "0c580d67c6b7da92bcd90e1d6ceb538a",
+            "body": {
+                "id": "chatcmpl-AMmwW3eySBNUqMAuRYwSYnDkC2hAS",
+                "object": "chat.completion",
+                "created": 1729994716,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 152,
+                    "completion_tokens": 4,
+                    "total_tokens": 156,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe4c130819090abf9d1f9ed5ad4",
+        "custom_id": "request-78",
+        "response": {
+            "status_code": 200,
+            "request_id": "941f0a45e9c8099c283365e2d224bd1a",
+            "body": {
+                "id": "chatcmpl-AMmwWLUvuF7mi0jF0IktDbjYtmSJD",
+                "object": "chat.completion",
+                "created": 1729994716,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "铅笔素描风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 152,
+                    "completion_tokens": 7,
+                    "total_tokens": 159,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_143bb8492c"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe4cfa88190b00e400e964613e5",
+        "custom_id": "request-79",
+        "response": {
+            "status_code": 200,
+            "request_id": "413cc9c3e7527dd78147c2a19a18c6a8",
+            "body": {
+                "id": "chatcmpl-AMmwVCpK3qZXoqvFUXj3HXXzZE46V",
+                "object": "chat.completion",
+                "created": 1729994715,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "漫画风格（暖色调）",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 142,
+                    "completion_tokens": 8,
+                    "total_tokens": 150,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_143bb8492c"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe4df548190a4ec7991617ec9b8",
+        "custom_id": "request-80",
+        "response": {
+            "status_code": 200,
+            "request_id": "3e7fdcfcf2ce8b088de5ef0177bd314e",
+            "body": {
+                "id": "chatcmpl-AMmwVYSSi8tfNQOt20XQFIy3gIp1g",
+                "object": "chat.completion",
+                "created": 1729994715,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 159,
+                    "completion_tokens": 4,
+                    "total_tokens": 163,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe5013c81908816585aad324003",
+        "custom_id": "request-81",
+        "response": {
+            "status_code": 200,
+            "request_id": "3f4a3b5425fb08358bf199a652b2fae7",
+            "body": {
+                "id": "chatcmpl-AMmwVdv1bURtuE0PIJ4WsaaiERCzV",
+                "object": "chat.completion",
+                "created": 1729994715,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 145,
+                    "completion_tokens": 4,
+                    "total_tokens": 149,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_9e15ccd6a4"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe50fec8190b8d866d2e58ccaaa",
+        "custom_id": "request-82",
+        "response": {
+            "status_code": 200,
+            "request_id": "ea54a72946e417310e47b7abe26dd9ed",
+            "body": {
+                "id": "chatcmpl-AMmwWz1csJd8SgQe6VWwGST0PKTRc",
+                "object": "chat.completion",
+                "created": 1729994716,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "铅笔素描风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 146,
+                    "completion_tokens": 7,
+                    "total_tokens": 153,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe51f688190b09cd0be2e211c84",
+        "custom_id": "request-83",
+        "response": {
+            "status_code": 200,
+            "request_id": "325fb59161f93d2b982b75af39b71af2",
+            "body": {
+                "id": "chatcmpl-AMmwWP0GfGxYQ741uG4RE5eS29ksA",
+                "object": "chat.completion",
+                "created": 1729994716,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 166,
+                    "completion_tokens": 4,
+                    "total_tokens": 170,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe52e108190bcde4712ffa60ada",
+        "custom_id": "request-84",
+        "response": {
+            "status_code": 200,
+            "request_id": "758c08895f056c2a133b485cebbd2d7f",
+            "body": {
+                "id": "chatcmpl-AMmwX9Jc466S9SZFvHvLMfRYNh6hd",
+                "object": "chat.completion",
+                "created": 1729994717,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "抱歉，我无法协助满足该请求。",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 149,
+                    "completion_tokens": 10,
+                    "total_tokens": 159,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe53ad08190a5c26e5a155b832f",
+        "custom_id": "request-85",
+        "response": {
+            "status_code": 200,
+            "request_id": "a56732d89de7c398b94c82be19a2ae36",
+            "body": {
+                "id": "chatcmpl-AMmwWOUbTNlAlY7zX2TnPOvwAy04W",
+                "object": "chat.completion",
+                "created": 1729994716,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 149,
+                    "completion_tokens": 4,
+                    "total_tokens": 153,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe549088190a3c710b5441ad1c8",
+        "custom_id": "request-86",
+        "response": {
+            "status_code": 200,
+            "request_id": "bc6f1a51b25007d778d1c603748e7cf8",
+            "body": {
+                "id": "chatcmpl-AMmwWuhq36S7uBaW6PG97lhTAx8aW",
+                "object": "chat.completion",
+                "created": 1729994716,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 151,
+                    "completion_tokens": 4,
+                    "total_tokens": 155,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe557408190b3858305a93aa195",
+        "custom_id": "request-87",
+        "response": {
+            "status_code": 200,
+            "request_id": "91819305cf394c9f71aa0c8bc65af307",
+            "body": {
+                "id": "chatcmpl-AMmwWfyFuT0echkjFm7cgJoymR58X",
+                "object": "chat.completion",
+                "created": 1729994716,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 148,
+                    "completion_tokens": 4,
+                    "total_tokens": 152,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe565988190a19411bf0d96e4e4",
+        "custom_id": "request-88",
+        "response": {
+            "status_code": 200,
+            "request_id": "f8b4fd37bc933fff38d9aa243839c451",
+            "body": {
+                "id": "chatcmpl-AMmwWh4ERNIYLZJiqXRfdhkt5AAKa",
+                "object": "chat.completion",
+                "created": 1729994716,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 153,
+                    "completion_tokens": 4,
+                    "total_tokens": 157,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe573b48190bab64cd70a43bbbc",
+        "custom_id": "request-89",
+        "response": {
+            "status_code": 200,
+            "request_id": "5f1aeb9df3aa793a2820661c1c838546",
+            "body": {
+                "id": "chatcmpl-AMmwYgofPN9O4xZQS31WZpdmnu0J8",
+                "object": "chat.completion",
+                "created": 1729994718,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 142,
+                    "completion_tokens": 4,
+                    "total_tokens": 146,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe580dc81909c0b649ac12c5daf",
+        "custom_id": "request-90",
+        "response": {
+            "status_code": 200,
+            "request_id": "7d4cee81e823756b89a0486aee753286",
+            "body": {
+                "id": "chatcmpl-AMmwWwrmrCndHdjD2OuG31Dxpeoon",
+                "object": "chat.completion",
+                "created": 1729994716,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 155,
+                    "completion_tokens": 4,
+                    "total_tokens": 159,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe58f988190859fb2050d0e7675",
+        "custom_id": "request-91",
+        "response": {
+            "status_code": 200,
+            "request_id": "34f84112c9dc00382d9f010eb8ef9219",
+            "body": {
+                "id": "chatcmpl-AMmwXJLa3Wp4OE6iJNyCUsVbbzlUc",
+                "object": "chat.completion",
+                "created": 1729994717,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "根据你的描述，这种生成图片通过图像安全检测的可能风格是\"漫画风格（暖色调）\"。你可以考虑对你的模型加入相关的补充数据，以增强对该风格下生成的特定情境的检测能力。",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 156,
+                    "completion_tokens": 57,
+                    "total_tokens": 213,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe59db48190bc8efb25d1974378",
+        "custom_id": "request-92",
+        "response": {
+            "status_code": 200,
+            "request_id": "47a618b2a2562c31c42d212210ce69eb",
+            "body": {
+                "id": "chatcmpl-AMmwYsG3E20u0syLBzPFXm1IpInoh",
+                "object": "chat.completion",
+                "created": 1729994718,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 146,
+                    "completion_tokens": 4,
+                    "total_tokens": 150,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe5ac0c81909e8062addf9e819d",
+        "custom_id": "request-93",
+        "response": {
+            "status_code": 200,
+            "request_id": "723776a5667c71bb9742c24490b37b38",
+            "body": {
+                "id": "chatcmpl-AMmwXQF1bLzlAf9O5T1FpovcfKVXE",
+                "object": "chat.completion",
+                "created": 1729994717,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "我建议对模型进行数据补充，以提高对黑白风格的检测能力。这种风格可能使得某些图像通过安全检测，因为它强调了图像中的对比和细节，这可以掩盖不安全内容。",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 164,
+                    "completion_tokens": 53,
+                    "total_tokens": 217,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe5b9808190b4a5e20568127df6",
+        "custom_id": "request-94",
+        "response": {
+            "status_code": 200,
+            "request_id": "d5b61de0de9cdc1cd09f91c61a74c34b",
+            "body": {
+                "id": "chatcmpl-AMmwXaBape4MccR95j5jmMBAvA2JC",
+                "object": "chat.completion",
+                "created": 1729994717,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "漫画风格（暖色调）",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 154,
+                    "completion_tokens": 8,
+                    "total_tokens": 162,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe5c63881909d80f3a42dae761a",
+        "custom_id": "request-95",
+        "response": {
+            "status_code": 200,
+            "request_id": "ba82b4e8e81827ceaadf3a205a4fb22f",
+            "body": {
+                "id": "chatcmpl-AMmwXGn6w3ud3od4Zs0FTphXsghrt",
+                "object": "chat.completion",
+                "created": 1729994717,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "油画风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 150,
+                    "completion_tokens": 4,
+                    "total_tokens": 154,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe5d5f08190b08a67fc198a0d2d",
+        "custom_id": "request-96",
+        "response": {
+            "status_code": 200,
+            "request_id": "87c466537cb4b0e0328e7f5e342f3d32",
+            "body": {
+                "id": "chatcmpl-AMmwXyN76corItYbU8cXYNFK3XFfm",
+                "object": "chat.completion",
+                "created": 1729994717,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 153,
+                    "completion_tokens": 4,
+                    "total_tokens": 157,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe5e5648190bca7bc3316ccf33f",
+        "custom_id": "request-97",
+        "response": {
+            "status_code": 200,
+            "request_id": "00b69b6afad8c3c980707b9f6095ee22",
+            "body": {
+                "id": "chatcmpl-AMmwYWDu9VRH63zJ3miGELQXIZ5tj",
+                "object": "chat.completion",
+                "created": 1729994718,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "抱歉，我无法协助满足该请求。",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 149,
+                    "completion_tokens": 10,
+                    "total_tokens": 159,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe605b08190b1281df01782aea6",
+        "custom_id": "request-98",
+        "response": {
+            "status_code": 200,
+            "request_id": "7dcbdcf8f253ef4f08a8eb8cfc690cd2",
+            "body": {
+                "id": "chatcmpl-AMmwXiAR8KxepkrjCvfAlVnzOTFHS",
+                "object": "chat.completion",
+                "created": 1729994717,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 148,
+                    "completion_tokens": 4,
+                    "total_tokens": 152,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_90354628f2"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe614388190b0c487245e6bb87d",
+        "custom_id": "request-99",
+        "response": {
+            "status_code": 200,
+            "request_id": "945153c7acd489f061016ae1bb4b0879",
+            "body": {
+                "id": "chatcmpl-AMmwXLNgQOjPz6zWslmU6LHyMDVeA",
+                "object": "chat.completion",
+                "created": 1729994717,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "漫画风格（暖色调）",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 156,
+                    "completion_tokens": 8,
+                    "total_tokens": 164,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    },
+    {
+        "id": "batch_req_671d9fe62208819083232aeac4e0137c",
+        "custom_id": "request-100",
+        "response": {
+            "status_code": 200,
+            "request_id": "0779753e3e6789a7c1d4e392f7bf55f4",
+            "body": {
+                "id": "chatcmpl-AMmwXMtyAngq8dTXiVcwu4F5yDNio",
+                "object": "chat.completion",
+                "created": 1729994717,
+                "model": "gpt-4o-2024-08-06",
+                "choices": [
+                    {
+                        "index": 0,
+                        "message": {
+                            "role": "assistant",
+                            "content": "水墨风格",
+                            "refusal": null
+                        },
+                        "logprobs": null,
+                        "finish_reason": "stop"
+                    }
+                ],
+                "usage": {
+                    "prompt_tokens": 157,
+                    "completion_tokens": 4,
+                    "total_tokens": 161,
+                    "prompt_tokens_details": {
+                        "cached_tokens": 0
+                    },
+                    "completion_tokens_details": {
+                        "reasoning_tokens": 0
+                    }
+                },
+                "system_fingerprint": "fp_72bbfa6014"
+            }
+        },
+        "error": null
+    }
+]

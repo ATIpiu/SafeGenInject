@@ -1,0 +1,4 @@
+model_name_or_path: THUDM/glm-4-9b-chat
+adapter_name_or_path: saves/glm4-9b/lora/reward
+template: glm4
+finetuning_type: lora

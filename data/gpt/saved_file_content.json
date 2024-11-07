@@ -1,0 +1,36 @@
+{
+    "id": "batch_req_66f125271b24819087c55459365ae4c7",
+    "custom_id": "request-1",
+    "response": {
+        "status_code": 200,
+        "request_id": "cc5bb540c3f6dc5fd45c55d0a310e64c",
+        "body": {
+            "id": "chatcmpl-AAYcQKTDAD4tlcfb8os0EWOJYUNHb",
+            "object": "chat.completion",
+            "created": 1727079718,
+            "model": "gpt-3.5-turbo-0125",
+            "choices": [
+                {
+                    "index": 0,
+                    "message": {
+                        "role": "assistant",
+                        "content": "Hello! How can I assist you today?",
+                        "refusal": null
+                    },
+                    "logprobs": null,
+                    "finish_reason": "stop"
+                }
+            ],
+            "usage": {
+                "prompt_tokens": 27,
+                "completion_tokens": 9,
+                "total_tokens": 36,
+                "completion_tokens_details": {
+                    "reasoning_tokens": 0
+                }
+            },
+            "system_fingerprint": null
+        }
+    },
+    "error": null
+}

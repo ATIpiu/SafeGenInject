@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="607cbc92-fd4e-49ee-9ba2-c0c95a3cad53" name="a">
+        <fileTransfer rootFolder="/work/home/xiongrun" accessType="SFTP" host="dzeshell.hpccube.com" port="65032" sshConfigId="115bed3c-0d52-4c87-b66c-d3dbdf405279" sshConfig="xiongrun@dzeshell.hpccube.com:65032 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

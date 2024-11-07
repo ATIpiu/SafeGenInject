@@ -1,0 +1,2 @@
+nohup python zh_test.py > 1.log 2>&1 &
+nohup python en_test.py > 2.log 2>&1 &
